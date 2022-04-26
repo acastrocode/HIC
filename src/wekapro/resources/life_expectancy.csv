@@ -1,0 +1,2907 @@
+Country,Year,LifeExpectancy,BMI
+Afghanistan,2015,65,19.1
+Afghanistan,2014,59.9,18.6
+Afghanistan,2013,59.9,18.1
+Afghanistan,2012,59.5,17.6
+Afghanistan,2011,59.2,17.2
+Afghanistan,2010,58.8,16.7
+Afghanistan,2009,58.6,16.2
+Afghanistan,2008,58.1,15.7
+Afghanistan,2007,57.5,15.2
+Afghanistan,2006,57.3,14.7
+Afghanistan,2005,57.3,14.2
+Afghanistan,2004,57,13.8
+Afghanistan,2003,56.7,13.4
+Afghanistan,2002,56.2,13
+Afghanistan,2001,55.3,12.6
+Afghanistan,2000,54.8,12.2
+Albania,2015,77.8,58
+Albania,2014,77.5,57.2
+Albania,2013,77.2,56.5
+Albania,2012,76.9,55.8
+Albania,2011,76.6,55.1
+Albania,2010,76.2,54.3
+Albania,2009,76.1,53.5
+Albania,2008,75.3,52.6
+Albania,2007,75.9,51.7
+Albania,2006,74.2,5.8
+Albania,2005,73.5,49.9
+Albania,2004,73,48.9
+Albania,2003,72.8,47.9
+Albania,2002,73.3,46.9
+Albania,2001,73.6,46
+Albania,2000,72.6,45
+Algeria,2015,75.6,59.5
+Algeria,2014,75.4,58.4
+Algeria,2013,75.3,57.2
+Algeria,2012,75.1,56.1
+Algeria,2011,74.9,55
+Algeria,2010,74.7,53.9
+Algeria,2009,74.4,52.8
+Algeria,2008,74.1,51.8
+Algeria,2007,73.8,5.8
+Algeria,2006,73.4,49.8
+Algeria,2005,72.9,48.9
+Algeria,2004,72.3,47.9
+Algeria,2003,71.7,47
+Algeria,2002,71.6,46.1
+Algeria,2001,71.4,45.3
+Algeria,2000,71.3,44.4
+Angola,2015,52.4,23.3
+Angola,2014,51.7,22.7
+Angola,2013,51.1,22.1
+Angola,2012,56,21.5
+Angola,2011,51,21
+Angola,2010,49.6,2.4
+Angola,2009,49.1,19.8
+Angola,2008,48.7,19.3
+Angola,2007,48.2,18.8
+Angola,2006,47.7,18.2
+Angola,2005,47.4,17.7
+Angola,2004,47.1,17.2
+Angola,2003,46.8,16.8
+Angola,2002,46.5,16.3
+Angola,2001,45.7,15.8
+Angola,2000,45.3,15.4
+Antigua and Barbuda,2015,76.4,47.7
+Antigua and Barbuda,2014,76.2,47
+Antigua and Barbuda,2013,76.1,46.4
+Antigua and Barbuda,2012,75.9,45.7
+Antigua and Barbuda,2011,75.7,45.1
+Antigua and Barbuda,2010,75.6,44.4
+Antigua and Barbuda,2009,75.4,43.8
+Antigua and Barbuda,2008,75.2,43.2
+Antigua and Barbuda,2007,75,42.6
+Antigua and Barbuda,2006,74.8,42
+Antigua and Barbuda,2005,74.6,41.4
+Antigua and Barbuda,2004,74.4,4.8
+Antigua and Barbuda,2003,74.2,4.1
+Antigua and Barbuda,2002,74,39.5
+Antigua and Barbuda,2001,73.8,38.9
+Antigua and Barbuda,2000,73.6,38.2
+Argentina,2015,76.3,62.8
+Argentina,2014,76.2,62.2
+Argentina,2013,76,61.6
+Argentina,2012,75.9,61
+Argentina,2011,75.7,6.4
+Argentina,2010,75.5,59.8
+Argentina,2009,75.6,59.2
+Argentina,2008,75.4,58.6
+Argentina,2007,74.8,58
+Argentina,2006,75.2,57.5
+Argentina,2005,74.9,56.9
+Argentina,2004,74.7,56.3
+Argentina,2003,74.1,55.7
+Argentina,2002,74.1,55.1
+Argentina,2001,74,54.6
+Argentina,2000,74.1,54
+Armenia,2015,74.8,54.9
+Armenia,2014,74.6,54.1
+Armenia,2013,74.4,53.3
+Armenia,2012,74.4,52.6
+Armenia,2011,73.9,51.9
+Armenia,2010,73.5,51.2
+Armenia,2009,73.3,5.7
+Armenia,2008,73.2,5.1
+Armenia,2007,73.5,49.7
+Armenia,2006,72.9,49.2
+Armenia,2005,73,48.8
+Armenia,2004,73,48.4
+Armenia,2003,72.7,48.1
+Armenia,2002,72.6,47.8
+Armenia,2001,72.6,47.4
+Armenia,2000,72,47.1
+Australia,2015,82.8,66.6
+Australia,2014,82.7,66.1
+Australia,2013,82.5,65.5
+Australia,2012,82.3,65
+Australia,2011,82,64.4
+Australia,2010,81.9,63.9
+Australia,2009,81.7,63.4
+Australia,2008,81.3,62.9
+Australia,2007,81.3,62.5
+Australia,2006,81.2,62
+Australia,2005,81,61.5
+Australia,2004,86,6.9
+Australia,2003,83,6.3
+Australia,2002,79.9,59.6
+Australia,2001,79.9,59
+Australia,2000,79.5,58.2
+Austria,2015,81.5,57.6
+Austria,2014,81.4,57.1
+Austria,2013,81.1,56.6
+Austria,2012,88,56.1
+Austria,2011,88,55.7
+Austria,2010,84,55.2
+Austria,2009,82,54.7
+Austria,2008,84,54.2
+Austria,2007,81,53.7
+Austria,2006,79.8,53.2
+Austria,2005,79.4,52.7
+Austria,2004,79.3,52.2
+Austria,2003,78.8,51.7
+Austria,2002,78.7,51.2
+Austria,2001,78.6,5.6
+Austria,2000,78.1,5.1
+Azerbaijan,2015,72.7,52.5
+Azerbaijan,2014,72.5,51.5
+Azerbaijan,2013,72.2,5.6
+Azerbaijan,2012,71.9,49.7
+Azerbaijan,2011,71.6,48.8
+Azerbaijan,2010,71.1,48
+Azerbaijan,2009,78,47.3
+Azerbaijan,2008,73,46.6
+Azerbaijan,2007,73,45.9
+Azerbaijan,2006,69.2,45.3
+Azerbaijan,2005,68.4,44.7
+Azerbaijan,2004,68.4,44.2
+Azerbaijan,2003,67.8,43.6
+Azerbaijan,2002,67.8,43.1
+Azerbaijan,2001,67.5,42.6
+Azerbaijan,2000,66.6,42.1
+Bahamas,2015,76.1,64.5
+Bahamas,2014,75.4,63.8
+Bahamas,2013,74.8,63.2
+Bahamas,2012,74.9,62.6
+Bahamas,2011,75,62
+Bahamas,2010,75,61.3
+Bahamas,2009,74.6,6.7
+Bahamas,2008,74.5,6.1
+Bahamas,2007,74.4,59.4
+Bahamas,2006,74.2,58.7
+Bahamas,2005,74.1,58.1
+Bahamas,2004,73.8,57.4
+Bahamas,2003,73.2,56.7
+Bahamas,2002,73.1,56
+Bahamas,2001,72.9,55.2
+Bahamas,2000,72.6,54.4
+Bahrain,2015,76.9,63.6
+Bahrain,2014,76.8,62.9
+Bahrain,2013,76.7,62.2
+Bahrain,2012,76.5,61.5
+Bahrain,2011,76.1,6.8
+Bahrain,2010,76.1,6.1
+Bahrain,2009,76,59.3
+Bahrain,2008,75.8,58.5
+Bahrain,2007,75.6,57.6
+Bahrain,2006,75.5,56.8
+Bahrain,2005,75.3,56.1
+Bahrain,2004,75.2,55.6
+Bahrain,2003,75,55.2
+Bahrain,2002,74.9,55
+Bahrain,2001,74.7,54.8
+Bahrain,2000,74.5,54.5
+Bangladesh,2015,71.8,18.3
+Bangladesh,2014,71.4,17.7
+Bangladesh,2013,71,17
+Bangladesh,2012,77,16.4
+Bangladesh,2011,73,15.8
+Bangladesh,2010,69.9,15.2
+Bangladesh,2009,69.5,14.6
+Bangladesh,2008,69.1,14
+Bangladesh,2007,68.6,13.5
+Bangladesh,2006,68.2,13
+Bangladesh,2005,67.8,12.5
+Bangladesh,2004,67.3,12
+Bangladesh,2003,66.8,11.6
+Bangladesh,2002,66.3,11.2
+Bangladesh,2001,65.8,1.8
+Bangladesh,2000,65.3,1.4
+Barbados,2015,75.5,54.5
+Barbados,2014,75.4,53.7
+Barbados,2013,75.2,53
+Barbados,2012,75.1,52.2
+Barbados,2011,74.9,51.4
+Barbados,2010,74.7,5.7
+Barbados,2009,74.6,49.9
+Barbados,2008,74.4,49.2
+Barbados,2007,74.2,48.4
+Barbados,2006,74.1,47.7
+Barbados,2005,73.9,46.9
+Barbados,2004,73.8,46.2
+Barbados,2003,73.7,45.4
+Barbados,2002,73.5,44.6
+Barbados,2001,73.4,43.8
+Barbados,2000,73.3,43
+Belarus,2015,72.3,62.3
+Belarus,2014,72,61.7
+Belarus,2013,71.7,61.1
+Belarus,2012,71.9,6.5
+Belarus,2011,72,59.9
+Belarus,2010,73,59.3
+Belarus,2009,70,58.7
+Belarus,2008,70,58.2
+Belarus,2007,69.8,57.7
+Belarus,2006,68.9,57.2
+Belarus,2005,68.1,56.7
+Belarus,2004,68.2,56.2
+Belarus,2003,67.7,55.8
+Belarus,2002,67.2,55.3
+Belarus,2001,67.7,54.9
+Belarus,2000,68,54.4
+Belgium,2015,81.1,63.7
+Belgium,2014,89,63.4
+Belgium,2013,87,63
+Belgium,2012,83,62.6
+Belgium,2011,83,62.3
+Belgium,2010,80,61.9
+Belgium,2009,79.8,61.6
+Belgium,2008,79.5,61.3
+Belgium,2007,79.5,6.9
+Belgium,2006,79.4,6.6
+Belgium,2005,78.9,6.2
+Belgium,2004,78.8,59.8
+Belgium,2003,78.3,59.4
+Belgium,2002,78,59
+Belgium,2001,78,58.5
+Belgium,2000,77.6,58.1
+Belize,2015,71,5.9
+Belize,2014,70,5.1
+Belize,2013,69.8,49.3
+Belize,2012,69.4,48.5
+Belize,2011,69.4,47.8
+Belize,2010,69.5,47
+Belize,2009,69.5,46.3
+Belize,2008,69.6,45.7
+Belize,2007,69.6,45
+Belize,2006,69.4,44.4
+Belize,2005,69,43.8
+Belize,2004,68.7,43.2
+Belize,2003,68.4,42.6
+Belize,2002,68.5,42
+Belize,2001,68.2,41.4
+Belize,2000,68.3,4.8
+Benin,2015,60,25.7
+Benin,2014,59.7,25.2
+Benin,2013,59.5,24.6
+Benin,2012,59.3,24.1
+Benin,2011,59.1,23.5
+Benin,2010,58.7,23
+Benin,2009,58.4,22.5
+Benin,2008,57.6,22
+Benin,2007,57.1,21.5
+Benin,2006,56.8,21
+Benin,2005,56.5,2.5
+Benin,2004,56.1,2.1
+Benin,2003,55.8,19.7
+Benin,2002,55.6,19.2
+Benin,2001,55.5,18.8
+Benin,2000,55.4,18.4
+Bhutan,2015,69.8,24.5
+Bhutan,2014,69.4,23.6
+Bhutan,2013,69.1,22.7
+Bhutan,2012,68.7,21.9
+Bhutan,2011,68.3,21.1
+Bhutan,2010,67.9,2.3
+Bhutan,2009,67.4,19.5
+Bhutan,2008,67,18.8
+Bhutan,2007,66.5,18
+Bhutan,2006,65.8,17.4
+Bhutan,2005,65,16.7
+Bhutan,2004,64.2,16.1
+Bhutan,2003,63.3,15.5
+Bhutan,2002,62.5,14.9
+Bhutan,2001,61.7,14.4
+Bhutan,2000,62,13.9
+Bolivia (Plurinational State of),2015,77,52.6
+Bolivia (Plurinational State of),2014,74,51.9
+Bolivia (Plurinational State of),2013,71,51.2
+Bolivia (Plurinational State of),2012,69.8,5.6
+Bolivia (Plurinational State of),2011,69.3,49.9
+Bolivia (Plurinational State of),2010,68.7,49.3
+Bolivia (Plurinational State of),2009,68,48.6
+Bolivia (Plurinational State of),2008,67.4,48
+Bolivia (Plurinational State of),2007,66.8,47.3
+Bolivia (Plurinational State of),2006,66.2,46.7
+Bolivia (Plurinational State of),2005,65.7,46
+Bolivia (Plurinational State of),2004,65.1,45.4
+Bolivia (Plurinational State of),2003,64.5,44.7
+Bolivia (Plurinational State of),2002,63.9,44
+Bolivia (Plurinational State of),2001,63.3,43.3
+Bolivia (Plurinational State of),2000,62.6,42.6
+Bosnia and Herzegovina,2015,77.4,55.8
+Bosnia and Herzegovina,2014,77.2,55.3
+Bosnia and Herzegovina,2013,77,54.7
+Bosnia and Herzegovina,2012,76.8,54.2
+Bosnia and Herzegovina,2011,76.9,53.7
+Bosnia and Herzegovina,2010,76.4,53.1
+Bosnia and Herzegovina,2009,76.1,52.6
+Bosnia and Herzegovina,2008,76,52.1
+Bosnia and Herzegovina,2007,75.4,51.5
+Bosnia and Herzegovina,2006,75.7,51
+Bosnia and Herzegovina,2005,75,5.5
+Bosnia and Herzegovina,2004,75.5,49.9
+Bosnia and Herzegovina,2003,75.2,49.4
+Bosnia and Herzegovina,2002,75.4,48.8
+Bosnia and Herzegovina,2001,74.9,48.2
+Bosnia and Herzegovina,2000,74.6,47.6
+Botswana,2015,65.7,37.9
+Botswana,2014,65.1,37.3
+Botswana,2013,64.2,36.8
+Botswana,2012,63.4,36.2
+Botswana,2011,62.2,35.7
+Botswana,2010,61.1,35.2
+Botswana,2009,59.2,34.7
+Botswana,2008,57.5,34.2
+Botswana,2007,56.9,33.7
+Botswana,2006,54.8,33.2
+Botswana,2005,51.7,32.7
+Botswana,2004,48.1,32.2
+Botswana,2003,46.4,31.6
+Botswana,2002,46,31.1
+Botswana,2001,46.7,3.5
+Botswana,2000,47.8,29.9
+Brazil,2015,75,56.1
+Brazil,2014,74.8,55.3
+Brazil,2013,74.7,54.5
+Brazil,2012,74.5,53.6
+Brazil,2011,74.1,52.8
+Brazil,2010,73.8,52
+Brazil,2009,73.6,51.1
+Brazil,2008,73.4,5.3
+Brazil,2007,73.3,49.4
+Brazil,2006,73,48.6
+Brazil,2005,72.7,47.8
+Brazil,2004,72,46.9
+Brazil,2003,71.8,46.1
+Brazil,2002,71.4,45.3
+Brazil,2001,71,44.5
+Brazil,2000,75,43.7
+Brunei Darussalam,2015,77.7,41.2
+Brunei Darussalam,2014,77.6,4.2
+Brunei Darussalam,2013,77.1,39.2
+Brunei Darussalam,2012,78.3,38.2
+Brunei Darussalam,2011,77.4,37.2
+Brunei Darussalam,2010,76.9,36.2
+Brunei Darussalam,2009,76.8,35.2
+Brunei Darussalam,2008,77.2,34.2
+Brunei Darussalam,2007,76,33.2
+Brunei Darussalam,2006,76.3,32.2
+Brunei Darussalam,2005,76.2,31.2
+Brunei Darussalam,2004,76.4,3.1
+Brunei Darussalam,2003,76,29.1
+Brunei Darussalam,2002,74.8,28
+Brunei Darussalam,2001,74.7,27
+Brunei Darussalam,2000,74.4,26.1
+Bulgaria,2015,74.5,65.7
+Bulgaria,2014,74.3,65.1
+Bulgaria,2013,74.1,64.5
+Bulgaria,2012,73.9,63.9
+Bulgaria,2011,73.7,63.3
+Bulgaria,2010,73.4,62.7
+Bulgaria,2009,73.2,62.1
+Bulgaria,2008,72.9,61.5
+Bulgaria,2007,72.6,6.9
+Bulgaria,2006,72.2,6.3
+Bulgaria,2005,72.1,59.7
+Bulgaria,2004,72.2,59.1
+Bulgaria,2003,72,58.6
+Bulgaria,2002,71.8,58.1
+Bulgaria,2001,71.6,57.5
+Bulgaria,2000,71.1,57
+Burkina Faso,2015,59.9,19.4
+Burkina Faso,2014,59.3,18.8
+Burkina Faso,2013,59,18.2
+Burkina Faso,2012,58.6,17.7
+Burkina Faso,2011,58.1,17.1
+Burkina Faso,2010,57.5,16.6
+Burkina Faso,2009,56.9,16.1
+Burkina Faso,2008,56.1,15.6
+Burkina Faso,2007,55.3,15.1
+Burkina Faso,2006,54.3,14.6
+Burkina Faso,2005,53.3,14.2
+Burkina Faso,2004,52.4,13.7
+Burkina Faso,2003,51.6,13.3
+Burkina Faso,2002,51,12.9
+Burkina Faso,2001,56,12.5
+Burkina Faso,2000,51,12.2
+Burundi,2015,59.6,18.7
+Burundi,2014,59.1,18.2
+Burundi,2013,58.6,17.6
+Burundi,2012,58,17.1
+Burundi,2011,57.4,16.6
+Burundi,2010,56.8,16.1
+Burundi,2009,56.2,15.7
+Burundi,2008,55.3,15.2
+Burundi,2007,54.8,14.8
+Burundi,2006,54.1,14.5
+Burundi,2005,53.4,14.1
+Burundi,2004,52.6,13.8
+Burundi,2003,51.9,13.5
+Burundi,2002,51.5,13.3
+Burundi,2001,51.3,13
+Burundi,2000,58,12.8
+Côte d'Ivoire,2015,53.3,28
+Côte d'Ivoire,2014,52.8,27.4
+Côte d'Ivoire,2013,52.3,26.8
+Côte d'Ivoire,2012,52,26.2
+Côte d'Ivoire,2011,51.7,25.6
+Côte d'Ivoire,2010,51.5,25
+Côte d'Ivoire,2009,51,24.4
+Côte d'Ivoire,2008,54,23.8
+Côte d'Ivoire,2007,49.9,23.2
+Côte d'Ivoire,2006,49.4,22.6
+Côte d'Ivoire,2005,48.7,22.1
+Côte d'Ivoire,2004,48.2,21.5
+Côte d'Ivoire,2003,48,2.9
+Côte d'Ivoire,2002,47.7,2.4
+Côte d'Ivoire,2001,47.8,19.9
+Côte d'Ivoire,2000,47.9,19.4
+Cabo Verde,2015,73.3,31.3
+Cabo Verde,2014,73,3.5
+Cabo Verde,2013,72.8,29.7
+Cabo Verde,2012,72.7,29
+Cabo Verde,2011,72.6,28.2
+Cabo Verde,2010,72.5,27.5
+Cabo Verde,2009,72.4,26.8
+Cabo Verde,2008,72.4,26.2
+Cabo Verde,2007,72.3,25.5
+Cabo Verde,2006,72.1,24.9
+Cabo Verde,2005,71.8,24.3
+Cabo Verde,2004,71.4,23.7
+Cabo Verde,2003,71.1,23.2
+Cabo Verde,2002,77,22.6
+Cabo Verde,2001,73,22.1
+Cabo Verde,2000,69.9,21.5
+Cambodia,2015,68.7,19.6
+Cambodia,2014,68.3,18.9
+Cambodia,2013,67.8,18.2
+Cambodia,2012,67.4,17.6
+Cambodia,2011,67,17
+Cambodia,2010,66.6,16.4
+Cambodia,2009,66.1,15.9
+Cambodia,2008,65.6,15.3
+Cambodia,2007,65,14.8
+Cambodia,2006,64.1,14.3
+Cambodia,2005,62.9,13.9
+Cambodia,2004,61.5,13.5
+Cambodia,2003,63,13.1
+Cambodia,2002,59.3,12.8
+Cambodia,2001,58.5,12.4
+Cambodia,2000,57.7,12.1
+Cameroon,2015,57.3,29
+Cameroon,2014,56.7,28.4
+Cameroon,2013,56.4,27.8
+Cameroon,2012,55.9,27.2
+Cameroon,2011,55.6,26.6
+Cameroon,2010,55.3,26
+Cameroon,2009,54.8,25.4
+Cameroon,2008,54.2,24.9
+Cameroon,2007,53.6,24.4
+Cameroon,2006,53.3,23.8
+Cameroon,2005,52.8,23.3
+Cameroon,2004,52.1,22.8
+Cameroon,2003,51.8,22.3
+Cameroon,2002,51.6,21.8
+Cameroon,2001,51.5,21.3
+Cameroon,2000,51.4,2.9
+Canada,2015,82.2,67
+Canada,2014,82,66.4
+Canada,2013,81.8,65.8
+Canada,2012,81.6,65.3
+Canada,2011,81.5,64.7
+Canada,2010,81.2,64.1
+Canada,2009,81,63.6
+Canada,2008,87,63
+Canada,2007,85,62.5
+Canada,2006,85,61.9
+Canada,2005,81,61.3
+Canada,2004,80,6.6
+Canada,2003,79.7,6
+Canada,2002,79.5,59.3
+Canada,2001,79.4,58.5
+Canada,2000,79.1,57.8
+Central African Republic,2015,52.5,22.7
+Central African Republic,2014,58,22.1
+Central African Republic,2013,49.9,21.6
+Central African Republic,2012,53,21.2
+Central African Republic,2011,49.8,2.7
+Central African Republic,2010,49.2,2.2
+Central African Republic,2009,48.6,19.8
+Central African Republic,2008,47.6,19.4
+Central African Republic,2007,46.8,19
+Central African Republic,2006,46.3,18.6
+Central African Republic,2005,45.9,18.2
+Central African Republic,2004,45.7,17.9
+Central African Republic,2003,45.7,17.5
+Central African Republic,2002,45.6,17.2
+Central African Republic,2001,45.6,16.8
+Central African Republic,2000,46,16.5
+Chad,2015,53.1,19.1
+Chad,2014,52.6,18.7
+Chad,2013,52.2,18.2
+Chad,2012,51.8,17.9
+Chad,2011,51.6,17.5
+Chad,2010,51.2,17.1
+Chad,2009,57,16.7
+Chad,2008,49.6,16.4
+Chad,2007,49.4,16.1
+Chad,2006,48.5,15.7
+Chad,2005,48.6,15.4
+Chad,2004,48.5,15.1
+Chad,2003,48.4,14.8
+Chad,2002,48.1,14.4
+Chad,2001,48,14.1
+Chad,2000,47.6,13.9
+Chile,2015,85,63.8
+Chile,2014,83,63.1
+Chile,2013,81,62.5
+Chile,2012,79.9,61.8
+Chile,2011,79.8,61.2
+Chile,2010,79.1,6.6
+Chile,2009,79.3,59.9
+Chile,2008,79.6,59.3
+Chile,2007,78.9,58.7
+Chile,2006,78.9,58.1
+Chile,2005,78.4,57.4
+Chile,2004,78,56.8
+Chile,2003,77.9,56.1
+Chile,2002,77.8,55.4
+Chile,2001,77.3,54.7
+Chile,2000,77.3,54
+China,2015,76.1,32.9
+China,2014,75.8,31.9
+China,2013,75.6,3.9
+China,2012,75.4,3
+China,2011,75.2,29
+China,2010,75,28.1
+China,2009,74.9,27.3
+China,2008,74.5,26.5
+China,2007,74.4,25.7
+China,2006,74.2,24.9
+China,2005,73.9,24.1
+China,2004,73.5,23.4
+China,2003,73.1,22.6
+China,2002,72.7,21.9
+China,2001,72.2,21.2
+China,2000,71.7,2.5
+Colombia,2015,74.8,57.9
+Colombia,2014,74.6,57.2
+Colombia,2013,74.4,56.4
+Colombia,2012,74.3,55.7
+Colombia,2011,74.2,55
+Colombia,2010,73.6,54.2
+Colombia,2009,73.6,53.5
+Colombia,2008,73.5,52.8
+Colombia,2007,73.5,52
+Colombia,2006,73.1,51.3
+Colombia,2005,73.1,5.5
+Colombia,2004,72.8,49.8
+Colombia,2003,72.4,49
+Colombia,2002,71.8,48.2
+Colombia,2001,71.5,47.5
+Colombia,2000,71.4,46.7
+Comoros,2015,63.5,24.2
+Comoros,2014,63.2,23.7
+Comoros,2013,62.9,23.2
+Comoros,2012,62.5,22.6
+Comoros,2011,62.2,22.1
+Comoros,2010,61.8,21.6
+Comoros,2009,61.3,21.1
+Comoros,2008,61,2.6
+Comoros,2007,66,2.1
+Comoros,2006,63,19.6
+Comoros,2005,60,19.2
+Comoros,2004,59.8,18.8
+Comoros,2003,59.6,18.4
+Comoros,2002,59.5,18
+Comoros,2001,59.5,17.6
+Comoros,2000,59.5,17.3
+Congo,2015,64.7,27.4
+Congo,2014,64.2,26.8
+Congo,2013,63.9,26.2
+Congo,2012,63.7,25.6
+Congo,2011,62.9,25
+Congo,2010,62,24.5
+Congo,2009,68,23.9
+Congo,2008,59.4,23.3
+Congo,2007,58.2,22.8
+Congo,2006,56.9,22.3
+Congo,2005,55.3,21.7
+Congo,2004,54.1,21.2
+Congo,2003,53.2,2.7
+Congo,2002,52.6,2.3
+Congo,2001,52.7,19.8
+Congo,2000,52.9,19.3
+Cook Islands,2013,,82.8
+Costa Rica,2015,79.6,6.5
+Costa Rica,2014,79.5,59.5
+Costa Rica,2013,79.4,58.5
+Costa Rica,2012,79.2,57.5
+Costa Rica,2011,79,56.5
+Costa Rica,2010,78.1,55.5
+Costa Rica,2009,79.2,54.4
+Costa Rica,2008,78.9,53.4
+Costa Rica,2007,78.9,52.4
+Costa Rica,2006,78,51.4
+Costa Rica,2005,78.6,5.3
+Costa Rica,2004,77.7,49.3
+Costa Rica,2003,78,48.3
+Costa Rica,2002,78.3,47.3
+Costa Rica,2001,77.5,46.4
+Costa Rica,2000,77.6,45.4
+Croatia,2015,78,63.7
+Croatia,2014,77.8,63.1
+Croatia,2013,77.7,62.5
+Croatia,2012,77.1,61.9
+Croatia,2011,77,61.3
+Croatia,2010,76.6,6.6
+Croatia,2009,76.3,6
+Croatia,2008,76,59.4
+Croatia,2007,75.8,58.7
+Croatia,2006,75.9,58.1
+Croatia,2005,75.2,57.5
+Croatia,2004,75.4,56.9
+Croatia,2003,74.7,56.3
+Croatia,2002,74.8,55.8
+Croatia,2001,74.9,55.2
+Croatia,2000,74.7,54.7
+Cuba,2015,79.1,61.4
+Cuba,2014,79,6.7
+Cuba,2013,78.7,59.9
+Cuba,2012,78.7,59.2
+Cuba,2011,78.8,58.4
+Cuba,2010,78,57.7
+Cuba,2009,78.1,56.9
+Cuba,2008,77.9,56.2
+Cuba,2007,78.1,55.4
+Cuba,2006,78,54.6
+Cuba,2005,77.2,53.8
+Cuba,2004,77.3,53
+Cuba,2003,77.4,52.1
+Cuba,2002,77.7,51.3
+Cuba,2001,76.7,5.4
+Cuba,2000,76.9,49.4
+Cyprus,2015,85,6.3
+Cyprus,2014,83,59.8
+Cyprus,2013,81,59.2
+Cyprus,2012,80,58.7
+Cyprus,2011,79.7,58.3
+Cyprus,2010,79.5,57.8
+Cyprus,2009,79.3,57.3
+Cyprus,2008,79.1,56.8
+Cyprus,2007,78.9,56.3
+Cyprus,2006,78.8,55.8
+Cyprus,2005,78.7,55.3
+Cyprus,2004,78.6,54.8
+Cyprus,2003,78.5,54.3
+Cyprus,2002,78.4,53.8
+Cyprus,2001,78.2,53.3
+Cyprus,2000,78.1,52.8
+Czechia,2015,78.8,66.1
+Czechia,2014,78.6,65.6
+Czechia,2013,78.2,65.1
+Czechia,2012,78,64.5
+Czechia,2011,77.8,64
+Czechia,2010,77.5,63.6
+Czechia,2009,77.1,63.1
+Czechia,2008,77,62.6
+Czechia,2007,76.8,62.2
+Czechia,2006,76.5,61.8
+Czechia,2005,75.9,61.3
+Czechia,2004,75.8,6.8
+Czechia,2003,75.2,6.4
+Czechia,2002,75.3,59.9
+Czechia,2001,75.1,59.4
+Czechia,2000,74.7,59
+Democratic People's Republic of Korea,2015,76,32.9
+Democratic People's Republic of Korea,2014,73,32.4
+Democratic People's Republic of Korea,2013,71,31.8
+Democratic People's Republic of Korea,2012,69.8,31.3
+Democratic People's Republic of Korea,2011,69.4,3.8
+Democratic People's Republic of Korea,2010,69,3.3
+Democratic People's Republic of Korea,2009,68.7,29.7
+Democratic People's Republic of Korea,2008,68.6,29.2
+Democratic People's Republic of Korea,2007,68.5,28.7
+Democratic People's Republic of Korea,2006,68.5,28.2
+Democratic People's Republic of Korea,2005,68.5,27.7
+Democratic People's Republic of Korea,2004,68.4,27.2
+Democratic People's Republic of Korea,2003,68.1,26.7
+Democratic People's Republic of Korea,2002,67.6,26.2
+Democratic People's Republic of Korea,2001,66.6,25.7
+Democratic People's Republic of Korea,2000,65.4,25.2
+Democratic Republic of the Congo,2015,59.8,21.6
+Democratic Republic of the Congo,2014,59.3,21.1
+Democratic Republic of the Congo,2013,58.8,2.6
+Democratic Republic of the Congo,2012,58.3,2.1
+Democratic Republic of the Congo,2011,57.9,19.6
+Democratic Republic of the Congo,2010,57.4,19.1
+Democratic Republic of the Congo,2009,56.7,18.6
+Democratic Republic of the Congo,2008,56.3,18.2
+Democratic Republic of the Congo,2007,55.7,17.8
+Democratic Republic of the Congo,2006,55,17.3
+Democratic Republic of the Congo,2005,54.3,16.9
+Democratic Republic of the Congo,2004,53.5,16.5
+Democratic Republic of the Congo,2003,52.8,16.1
+Democratic Republic of the Congo,2002,52.1,15.7
+Democratic Republic of the Congo,2001,51.8,15.3
+Democratic Republic of the Congo,2000,51.3,14.9
+Denmark,2015,86,58.8
+Denmark,2014,84,58.4
+Denmark,2013,81,58.1
+Denmark,2012,80,57.7
+Denmark,2011,79.7,57.4
+Denmark,2010,79.2,57
+Denmark,2009,78.9,56.6
+Denmark,2008,78.8,56.3
+Denmark,2007,78.4,55.9
+Denmark,2006,78.1,55.4
+Denmark,2005,78.1,55
+Denmark,2004,77.7,54.4
+Denmark,2003,77.3,53.9
+Denmark,2002,77,53.3
+Denmark,2001,77,52.8
+Denmark,2000,76.9,52.2
+Djibouti,2015,63.5,35
+Djibouti,2014,63,34.4
+Djibouti,2013,62.7,33.8
+Djibouti,2012,62.2,33.2
+Djibouti,2011,61.8,32.7
+Djibouti,2010,61.3,32.2
+Djibouti,2009,69,31.7
+Djibouti,2008,62,31.3
+Djibouti,2007,59.8,3.9
+Djibouti,2006,59.1,3.6
+Djibouti,2005,58.6,3.2
+Djibouti,2004,58.1,29.8
+Djibouti,2003,58,29.4
+Djibouti,2002,57.9,29
+Djibouti,2001,57.7,28.6
+Djibouti,2000,57.4,28.2
+Dominica,2013,,58.4
+Dominican Republic,2015,73.9,58.9
+Dominican Republic,2014,73.6,57.9
+Dominican Republic,2013,73.4,56.8
+Dominican Republic,2012,72.1,55.8
+Dominican Republic,2011,73.1,54.7
+Dominican Republic,2010,72.7,53.6
+Dominican Republic,2009,73.6,52.6
+Dominican Republic,2008,73.3,51.5
+Dominican Republic,2007,72.9,5.4
+Dominican Republic,2006,72.3,49.3
+Dominican Republic,2005,69.7,48.2
+Dominican Republic,2004,69.3,47.2
+Dominican Republic,2003,73,46.1
+Dominican Republic,2002,71.4,45.1
+Dominican Republic,2001,71.2,44.1
+Dominican Republic,2000,72,43.1
+Ecuador,2015,76.2,54.2
+Ecuador,2014,76,53.5
+Ecuador,2013,76,52.8
+Ecuador,2012,75.5,52.1
+Ecuador,2011,75.3,51.4
+Ecuador,2010,75,5.7
+Ecuador,2009,75.1,5
+Ecuador,2008,74.6,49.3
+Ecuador,2007,74.7,48.6
+Ecuador,2006,74.4,47.9
+Ecuador,2005,74.2,47.2
+Ecuador,2004,74.4,46.5
+Ecuador,2003,74.4,45.8
+Ecuador,2002,73.6,45.1
+Ecuador,2001,73.4,44.3
+Ecuador,2000,72.8,43.6
+Egypt,2015,79,61.1
+Egypt,2014,78,6.2
+Egypt,2013,79,59.4
+Egypt,2012,72,58.6
+Egypt,2011,74,57.8
+Egypt,2010,70,57
+Egypt,2009,69.9,56.2
+Egypt,2008,69.8,55.5
+Egypt,2007,69.7,54.8
+Egypt,2006,69.5,54.2
+Egypt,2005,69.4,53.5
+Egypt,2004,69,52.9
+Egypt,2003,68.6,52.3
+Egypt,2002,68.7,51.8
+Egypt,2001,68.6,51.2
+Egypt,2000,68.8,5.7
+El Salvador,2015,73.5,56.1
+El Salvador,2014,73.3,55.4
+El Salvador,2013,73,54.7
+El Salvador,2012,73,54.1
+El Salvador,2011,72,53.4
+El Salvador,2010,72,52.8
+El Salvador,2009,71.4,52.1
+El Salvador,2008,71.7,51.4
+El Salvador,2007,71.2,5.8
+El Salvador,2006,75,5.1
+El Salvador,2005,71,49.4
+El Salvador,2004,70,48.6
+El Salvador,2003,69.9,47.8
+El Salvador,2002,73,47
+El Salvador,2001,68.9,46.2
+El Salvador,2000,69,45.3
+Equatorial Guinea,2015,58.2,24.5
+Equatorial Guinea,2014,57.9,24
+Equatorial Guinea,2013,57.4,23.5
+Equatorial Guinea,2012,56.7,23
+Equatorial Guinea,2011,56.2,22.6
+Equatorial Guinea,2010,56.1,22.1
+Equatorial Guinea,2009,55.7,21.7
+Equatorial Guinea,2008,55.4,21.3
+Equatorial Guinea,2007,55,2.9
+Equatorial Guinea,2006,54.8,2.5
+Equatorial Guinea,2005,54.4,2.2
+Equatorial Guinea,2004,54.1,19.8
+Equatorial Guinea,2003,53.8,19.5
+Equatorial Guinea,2002,53.5,19.1
+Equatorial Guinea,2001,53.1,18.7
+Equatorial Guinea,2000,52.7,18.3
+Eritrea,2015,64.7,18.6
+Eritrea,2014,64.4,18
+Eritrea,2013,64,17.5
+Eritrea,2012,63.6,17
+Eritrea,2011,62.9,16.5
+Eritrea,2010,62.1,16
+Eritrea,2009,61.4,15.5
+Eritrea,2008,67,15.1
+Eritrea,2007,62,14.7
+Eritrea,2006,59.7,14.3
+Eritrea,2005,59.4,13.9
+Eritrea,2004,59.1,13.6
+Eritrea,2003,58.8,13.3
+Eritrea,2002,58.5,13.1
+Eritrea,2001,58.1,12.8
+Eritrea,2000,45.3,12.6
+Estonia,2015,77.6,59.9
+Estonia,2014,77.3,59.4
+Estonia,2013,76.9,59
+Estonia,2012,76.3,58.5
+Estonia,2011,76.1,58
+Estonia,2010,75.6,57.6
+Estonia,2009,74.9,57.1
+Estonia,2008,74.2,56.7
+Estonia,2007,73,56.3
+Estonia,2006,73,55.9
+Estonia,2005,72.8,55.5
+Estonia,2004,72.3,55.2
+Estonia,2003,71.9,54.9
+Estonia,2002,71.2,54.6
+Estonia,2001,78,54.3
+Estonia,2000,78,54
+Ethiopia,2015,64.8,17.6
+Ethiopia,2014,64.2,17.2
+Ethiopia,2013,63.7,16.8
+Ethiopia,2012,63.3,16.4
+Ethiopia,2011,62.6,16
+Ethiopia,2010,61.8,15.6
+Ethiopia,2009,68,15.3
+Ethiopia,2008,59.8,14.9
+Ethiopia,2007,58.5,14.5
+Ethiopia,2006,57.2,14.2
+Ethiopia,2005,56,13.8
+Ethiopia,2004,55,13.5
+Ethiopia,2003,54,13.2
+Ethiopia,2002,53.2,12.9
+Ethiopia,2001,52.5,12.6
+Ethiopia,2000,51.2,12.3
+Fiji,2015,69.9,62.7
+Fiji,2014,69.7,61.9
+Fiji,2013,69.6,61.1
+Fiji,2012,69.4,6.2
+Fiji,2011,69.2,59.5
+Fiji,2010,69.1,58.7
+Fiji,2009,68.9,58
+Fiji,2008,68.7,57.3
+Fiji,2007,68.6,56.6
+Fiji,2006,68.5,55.9
+Fiji,2005,68.3,55.1
+Fiji,2004,68.1,54.2
+Fiji,2003,68,53.2
+Fiji,2002,67.9,52.2
+Fiji,2001,67.8,51.2
+Fiji,2000,67.7,5.2
+Finland,2015,81.1,62.1
+Finland,2014,89,61.7
+Finland,2013,87,61.4
+Finland,2012,84,61
+Finland,2011,83,6.6
+Finland,2010,79.9,6.2
+Finland,2009,79.7,59.8
+Finland,2008,79.6,59.4
+Finland,2007,79.3,59
+Finland,2006,79.2,58.6
+Finland,2005,78.9,58.1
+Finland,2004,78.7,57.6
+Finland,2003,78.4,57.1
+Finland,2002,78.1,56.6
+Finland,2001,78,56.1
+Finland,2000,77.5,55.5
+France,2015,82.4,62.5
+France,2014,82.2,62
+France,2013,82,61.6
+France,2012,81.5,61.1
+France,2011,81.7,6.6
+France,2010,81.3,6.1
+France,2009,81.1,59.6
+France,2008,89,59.1
+France,2007,89,58.6
+France,2006,86,58
+France,2005,81,57.5
+France,2004,82,57
+France,2003,79.3,56.4
+France,2002,79.2,55.8
+France,2001,79,55.2
+France,2000,78.8,54.6
+Gabon,2015,66,36.3
+Gabon,2014,65.5,35.8
+Gabon,2013,64.6,35.2
+Gabon,2012,63.5,34.6
+Gabon,2011,62.8,34.1
+Gabon,2010,62.3,33.5
+Gabon,2009,61.7,33
+Gabon,2008,61.6,32.4
+Gabon,2007,61.6,31.9
+Gabon,2006,61.4,31.4
+Gabon,2005,65,3.8
+Gabon,2004,59.7,3.3
+Gabon,2003,59.7,29.8
+Gabon,2002,59.7,29.2
+Gabon,2001,59.8,28.7
+Gabon,2000,61,28.1
+Gambia,2015,61.1,27.3
+Gambia,2014,68,26.7
+Gambia,2013,66,26
+Gambia,2012,62,25.4
+Gambia,2011,59.8,24.8
+Gambia,2010,59.3,24.1
+Gambia,2009,59,23.5
+Gambia,2008,58.7,22.8
+Gambia,2007,58.5,22.2
+Gambia,2006,58.2,21.5
+Gambia,2005,57.7,2.9
+Gambia,2004,57.3,2.3
+Gambia,2003,57,19.7
+Gambia,2002,56.6,19.1
+Gambia,2001,56.3,18.5
+Gambia,2000,55.9,18
+Georgia,2015,74.4,56.2
+Georgia,2014,74.5,55.3
+Georgia,2013,74.5,54.4
+Georgia,2012,74.2,53.6
+Georgia,2011,73.9,52.8
+Georgia,2010,73.8,52
+Georgia,2009,73.2,51.3
+Georgia,2008,73.9,5.5
+Georgia,2007,74.4,49.9
+Georgia,2006,73.9,49.2
+Georgia,2005,73.9,48.6
+Georgia,2004,72.3,48.1
+Georgia,2003,72.7,47.5
+Georgia,2002,71.7,47
+Georgia,2001,73,46.5
+Georgia,2000,71.8,46
+Germany,2015,81,62.3
+Germany,2014,89,61.9
+Germany,2013,86,61.4
+Germany,2012,86,6.9
+Germany,2011,85,6.4
+Germany,2010,81,59.9
+Germany,2009,80,59.5
+Germany,2008,79.9,59
+Germany,2007,79.8,58.5
+Germany,2006,79.6,58
+Germany,2005,79.2,57.6
+Germany,2004,79.1,57.1
+Germany,2003,78.5,56.6
+Germany,2002,78.4,56.1
+Germany,2001,78.3,55.6
+Germany,2000,78,55.1
+Ghana,2015,62.4,28.6
+Ghana,2014,62.1,28
+Ghana,2013,61.9,27.3
+Ghana,2012,61.6,26.7
+Ghana,2011,61.2,26.1
+Ghana,2010,69,25.5
+Ghana,2009,66,24.9
+Ghana,2008,63,24.2
+Ghana,2007,59.9,23.6
+Ghana,2006,59.4,23
+Ghana,2005,58.9,22.4
+Ghana,2004,58.3,21.8
+Ghana,2003,57.9,21.2
+Ghana,2002,57.6,2.7
+Ghana,2001,57.4,2.1
+Ghana,2000,57.2,19.5
+Greece,2015,81,66.5
+Greece,2014,88,66
+Greece,2013,86,65.4
+Greece,2012,84,64.9
+Greece,2011,85,64.3
+Greece,2010,83,63.7
+Greece,2009,80,63.1
+Greece,2008,79.9,62.4
+Greece,2007,79.4,61.8
+Greece,2006,79.7,61.2
+Greece,2005,79.3,6.5
+Greece,2004,79.2,59.9
+Greece,2003,79.1,59.2
+Greece,2002,79,58.6
+Greece,2001,78.7,58
+Greece,2000,78.2,57.4
+Grenada,2015,73.6,48.4
+Grenada,2014,73.5,47.4
+Grenada,2013,73.3,46.5
+Grenada,2012,73.1,45.6
+Grenada,2011,72.9,44.7
+Grenada,2010,72.6,43.9
+Grenada,2009,72.4,43.1
+Grenada,2008,72.1,42.4
+Grenada,2007,71.9,41.8
+Grenada,2006,71.7,41.1
+Grenada,2005,71.5,4.5
+Grenada,2004,73,39.9
+Grenada,2003,71.1,39.4
+Grenada,2002,79,38.8
+Grenada,2001,77,38.2
+Grenada,2000,74,37.7
+Guatemala,2015,71.9,5.6
+Guatemala,2014,71.7,49.9
+Guatemala,2013,71.4,49.3
+Guatemala,2012,71.3,48.6
+Guatemala,2011,71.1,47.9
+Guatemala,2010,77,47.2
+Guatemala,2009,76,46.5
+Guatemala,2008,79,45.9
+Guatemala,2007,75,45.2
+Guatemala,2006,69.7,44.5
+Guatemala,2005,69.2,43.8
+Guatemala,2004,69.6,43.1
+Guatemala,2003,69.4,42.4
+Guatemala,2002,69.3,41.7
+Guatemala,2001,68.4,41.1
+Guatemala,2000,67.7,4.4
+Guinea,2015,59,23.3
+Guinea,2014,58.1,22.7
+Guinea,2013,58.8,22.2
+Guinea,2012,58.4,21.7
+Guinea,2011,58.1,21.2
+Guinea,2010,57.8,2.8
+Guinea,2009,57.3,2.3
+Guinea,2008,56.8,19.8
+Guinea,2007,56.4,19.4
+Guinea,2006,55.6,19
+Guinea,2005,54.7,18.5
+Guinea,2004,54,18.1
+Guinea,2003,53.3,17.7
+Guinea,2002,52.9,17.3
+Guinea,2001,52.5,16.9
+Guinea,2000,52.5,16.6
+Guinea-Bissau,2015,58.9,26.3
+Guinea-Bissau,2014,58.4,25.6
+Guinea-Bissau,2013,58.1,25
+Guinea-Bissau,2012,57.6,24.3
+Guinea-Bissau,2011,57.1,23.7
+Guinea-Bissau,2010,56.7,23.1
+Guinea-Bissau,2009,56.3,22.5
+Guinea-Bissau,2008,55.6,21.9
+Guinea-Bissau,2007,55,21.3
+Guinea-Bissau,2006,54.4,2.7
+Guinea-Bissau,2005,53.9,2.1
+Guinea-Bissau,2004,53.5,19.6
+Guinea-Bissau,2003,53,19
+Guinea-Bissau,2002,52.8,18.5
+Guinea-Bissau,2001,52.5,17.9
+Guinea-Bissau,2000,52.1,17.4
+Guyana,2015,66.2,46.7
+Guyana,2014,66,45.9
+Guyana,2013,65.9,45
+Guyana,2012,65.8,44.1
+Guyana,2011,65.6,43.2
+Guyana,2010,65.9,42.4
+Guyana,2009,66.1,41.6
+Guyana,2008,66.3,4.9
+Guyana,2007,65.7,4.3
+Guyana,2006,65.2,39.6
+Guyana,2005,65,39
+Guyana,2004,65.1,38.4
+Guyana,2003,65.3,37.8
+Guyana,2002,65.3,37.1
+Guyana,2001,65.4,36.4
+Guyana,2000,65.4,35.7
+Haiti,2015,63.5,49.9
+Haiti,2014,63.1,48.8
+Haiti,2013,62.7,47.7
+Haiti,2012,62.3,46.5
+Haiti,2011,62.3,45.3
+Haiti,2010,36.3,44.2
+Haiti,2009,62.5,43
+Haiti,2008,62.1,41.8
+Haiti,2007,61.8,4.7
+Haiti,2006,61.1,39.6
+Haiti,2005,65,38.5
+Haiti,2004,58.7,37.5
+Haiti,2003,59.7,36.5
+Haiti,2002,59.3,35.6
+Haiti,2001,58.9,34.8
+Haiti,2000,58.6,34
+Honduras,2015,74.6,51
+Honduras,2014,74.5,5.2
+Honduras,2013,74.3,49.3
+Honduras,2012,74.1,48.4
+Honduras,2011,73.9,47.6
+Honduras,2010,73.6,46.8
+Honduras,2009,73.4,45.9
+Honduras,2008,73.2,45.1
+Honduras,2007,73,44.3
+Honduras,2006,72.8,43.5
+Honduras,2005,72.5,42.8
+Honduras,2004,72.2,42
+Honduras,2003,71.9,41.2
+Honduras,2002,71.6,4.4
+Honduras,2001,71.3,39.6
+Honduras,2000,71,38.8
+Hungary,2015,75.8,64.8
+Hungary,2014,75.6,64.2
+Hungary,2013,75.5,63.6
+Hungary,2012,75,63
+Hungary,2011,74.8,62.4
+Hungary,2010,74.5,61.7
+Hungary,2009,74.2,61.1
+Hungary,2008,74.1,6.5
+Hungary,2007,73.5,59.9
+Hungary,2006,73.4,59.3
+Hungary,2005,72.9,58.8
+Hungary,2004,72.9,58.2
+Hungary,2003,72.5,57.6
+Hungary,2002,72.5,57.1
+Hungary,2001,72.3,56.6
+Hungary,2000,71.7,56.1
+Iceland,2015,82.7,61
+Iceland,2014,82.5,6.6
+Iceland,2013,82.4,6.2
+Iceland,2012,82.5,59.7
+Iceland,2011,82.1,59.3
+Iceland,2010,81.8,58.9
+Iceland,2009,81.6,58.5
+Iceland,2008,81.4,58.1
+Iceland,2007,81.3,57.8
+Iceland,2006,81.1,57.4
+Iceland,2005,81,56.9
+Iceland,2004,88,56.5
+Iceland,2003,87,55.9
+Iceland,2002,84,55.4
+Iceland,2001,80,54.8
+Iceland,2000,79.7,54.2
+India,2015,68.3,18.7
+India,2014,68,18.1
+India,2013,67.6,17.5
+India,2012,67.3,17
+India,2011,66.8,16.4
+India,2010,66.4,15.9
+India,2009,66,15.4
+India,2008,65.5,14.9
+India,2007,65.2,14.4
+India,2006,64.8,13.9
+India,2005,64.4,13.5
+India,2004,64,13
+India,2003,63.7,12.6
+India,2002,63.3,12.2
+India,2001,62.9,11.8
+India,2000,62.5,11.4
+Indonesia,2015,69.1,27.4
+Indonesia,2014,68.9,26.5
+Indonesia,2013,68.7,25.6
+Indonesia,2012,68.5,24.7
+Indonesia,2011,68.3,23.8
+Indonesia,2010,68.1,22.9
+Indonesia,2009,67.9,22.1
+Indonesia,2008,67.7,21.3
+Indonesia,2007,67.5,2.5
+Indonesia,2006,67.3,19.7
+Indonesia,2005,67.2,19
+Indonesia,2004,65.3,18.2
+Indonesia,2003,66.9,17.5
+Indonesia,2002,66.7,16.7
+Indonesia,2001,66.5,16
+Indonesia,2000,66.3,15.4
+Iran (Islamic Republic of),2015,75.5,59.7
+Iran (Islamic Republic of),2014,75.4,58.5
+Iran (Islamic Republic of),2013,75.3,57.2
+Iran (Islamic Republic of),2012,75.1,56
+Iran (Islamic Republic of),2011,74.7,54.8
+Iran (Islamic Republic of),2010,74.1,53.6
+Iran (Islamic Republic of),2009,73.3,52.5
+Iran (Islamic Republic of),2008,72.7,51.4
+Iran (Islamic Republic of),2007,72.4,5.4
+Iran (Islamic Republic of),2006,72.2,49.4
+Iran (Islamic Republic of),2005,72,48.5
+Iran (Islamic Republic of),2004,71.8,47.6
+Iran (Islamic Republic of),2003,75,46.9
+Iran (Islamic Republic of),2002,71.2,46.2
+Iran (Islamic Republic of),2001,78,45.5
+Iran (Islamic Republic of),2000,73,44.9
+Iraq,2015,68.9,59.1
+Iraq,2014,67.9,58.5
+Iraq,2013,69.5,57.8
+Iraq,2012,76,57.2
+Iraq,2011,77,56.5
+Iraq,2010,76,55.8
+Iraq,2009,74,55.2
+Iraq,2008,69.3,54.5
+Iraq,2007,65.9,53.8
+Iraq,2006,64.7,53.2
+Iraq,2005,66.8,52.5
+Iraq,2004,67.2,51.9
+Iraq,2003,66.5,51.3
+Iraq,2002,74,5.6
+Iraq,2001,72,5.1
+Iraq,2000,70,49.5
+Ireland,2015,81.4,62.8
+Ireland,2014,81.2,62.1
+Ireland,2013,81,61.3
+Ireland,2012,85,6.5
+Ireland,2011,84,59.7
+Ireland,2010,86,58.9
+Ireland,2009,79.7,58.2
+Ireland,2008,79.8,57.4
+Ireland,2007,79.5,56.6
+Ireland,2006,79,55.8
+Ireland,2005,78.7,55.1
+Ireland,2004,78.3,54.4
+Ireland,2003,78,53.6
+Ireland,2002,77.4,52.9
+Ireland,2001,77,52.2
+Ireland,2000,76.4,51.5
+Israel,2015,82.5,64.9
+Israel,2014,82.2,64.6
+Israel,2013,82.1,64.2
+Israel,2012,81.8,63.8
+Israel,2011,81.8,63.4
+Israel,2010,81.7,63
+Israel,2009,81.5,62.6
+Israel,2008,81,62.1
+Israel,2007,84,61.6
+Israel,2006,84,61.1
+Israel,2005,80,6.6
+Israel,2004,81,6.1
+Israel,2003,79.7,59.6
+Israel,2002,79.3,59.2
+Israel,2001,79.3,58.7
+Israel,2000,78.9,58.3
+Italy,2015,82.7,63.6
+Italy,2014,82.5,63.1
+Italy,2013,82.3,62.6
+Italy,2012,82,62.1
+Italy,2011,82,61.5
+Italy,2010,81.8,61
+Italy,2009,81.6,6.5
+Italy,2008,81.5,59.9
+Italy,2007,81.3,59.4
+Italy,2006,81.2,58.8
+Italy,2005,88,58.2
+Italy,2004,89,57.6
+Italy,2003,79.9,57
+Italy,2002,80,56.4
+Italy,2001,79.8,55.7
+Italy,2000,79.4,55
+Jamaica,2015,76.2,54.2
+Jamaica,2014,75.8,53.5
+Jamaica,2013,75.6,52.7
+Jamaica,2012,75.3,52
+Jamaica,2011,75.2,51.2
+Jamaica,2010,75,5.5
+Jamaica,2009,74.7,49.7
+Jamaica,2008,74.5,48.9
+Jamaica,2007,74.2,48.1
+Jamaica,2006,74,47.2
+Jamaica,2005,73.5,46.3
+Jamaica,2004,73.3,45.4
+Jamaica,2003,73.1,44.5
+Jamaica,2002,73,43.5
+Jamaica,2001,72.7,42.5
+Jamaica,2000,72.6,41.6
+Japan,2015,83.7,29
+Japan,2014,83.5,28.6
+Japan,2013,83.5,28.2
+Japan,2012,83.3,27.8
+Japan,2011,82.5,27.4
+Japan,2010,83,26.9
+Japan,2009,83,26.4
+Japan,2008,82.7,25.9
+Japan,2007,82.6,25.4
+Japan,2006,82.4,24.9
+Japan,2005,82,24.4
+Japan,2004,82.1,23.8
+Japan,2003,81.9,23.4
+Japan,2002,81.8,22.9
+Japan,2001,81.5,22.5
+Japan,2000,81.1,22.2
+Jordan,2015,74.1,65.6
+Jordan,2014,74,64.8
+Jordan,2013,73.9,64
+Jordan,2012,73.7,63.2
+Jordan,2011,73.6,62.4
+Jordan,2010,73.4,61.7
+Jordan,2009,73.3,6.9
+Jordan,2008,73.1,6.1
+Jordan,2007,73,59.3
+Jordan,2006,72.8,58.6
+Jordan,2005,72.4,57.8
+Jordan,2004,72.5,57
+Jordan,2003,72.3,56.3
+Jordan,2002,72.1,55.5
+Jordan,2001,71.9,54.8
+Jordan,2000,71.7,54
+Kazakhstan,2015,72,53.1
+Kazakhstan,2014,69.9,52.3
+Kazakhstan,2013,69.5,51.4
+Kazakhstan,2012,69.1,5.6
+Kazakhstan,2011,68.5,49.9
+Kazakhstan,2010,67.8,49.2
+Kazakhstan,2009,67.8,48.5
+Kazakhstan,2008,66.6,47.9
+Kazakhstan,2007,65.3,47.3
+Kazakhstan,2006,65,46.8
+Kazakhstan,2005,64.6,46.3
+Kazakhstan,2004,64.7,45.8
+Kazakhstan,2003,64.4,45.3
+Kazakhstan,2002,64.7,44.8
+Kazakhstan,2001,64.4,44.4
+Kazakhstan,2000,63.9,43.9
+Kenya,2015,63.4,22
+Kenya,2014,62.9,21.3
+Kenya,2013,62.6,2.7
+Kenya,2012,62.1,2.1
+Kenya,2011,61.2,19.5
+Kenya,2010,63,18.9
+Kenya,2009,59.1,18.4
+Kenya,2008,57.9,17.9
+Kenya,2007,56.8,17.3
+Kenya,2006,55.3,16.9
+Kenya,2005,54.1,16.4
+Kenya,2004,53,15.9
+Kenya,2003,52.4,15.5
+Kenya,2002,52.1,15.1
+Kenya,2001,51.9,14.7
+Kenya,2000,51.9,14.4
+Kiribati,2015,66.3,77.6
+Kiribati,2014,66.1,77.1
+Kiribati,2013,65.8,76.7
+Kiribati,2012,65.7,76.2
+Kiribati,2011,65.5,75.7
+Kiribati,2010,65.3,75.2
+Kiribati,2009,65.2,74.6
+Kiribati,2008,65.1,74.1
+Kiribati,2007,65,73.4
+Kiribati,2006,65,72.8
+Kiribati,2005,64.9,72.1
+Kiribati,2004,64.8,71.4
+Kiribati,2003,64.7,7.6
+Kiribati,2002,64.6,69.7
+Kiribati,2001,64.3,68.8
+Kiribati,2000,64.1,67.9
+Kuwait,2015,74.7,71.4
+Kuwait,2014,74.6,7.8
+Kuwait,2013,74.5,7.2
+Kuwait,2012,74.3,69.5
+Kuwait,2011,74.2,69
+Kuwait,2010,74,68.4
+Kuwait,2009,73.9,67.9
+Kuwait,2008,73.8,67.5
+Kuwait,2007,73.7,67.1
+Kuwait,2006,73.6,66.7
+Kuwait,2005,73.6,66.3
+Kuwait,2004,73.5,65.9
+Kuwait,2003,73.4,65.5
+Kuwait,2002,73.3,65
+Kuwait,2001,73.2,64.5
+Kuwait,2000,73.2,64
+Kyrgyzstan,2015,71.1,44.9
+Kyrgyzstan,2014,78,43.9
+Kyrgyzstan,2013,77,43
+Kyrgyzstan,2012,69.9,42.2
+Kyrgyzstan,2011,69.4,41.4
+Kyrgyzstan,2010,68.8,4.7
+Kyrgyzstan,2009,68.5,4.1
+Kyrgyzstan,2008,67.6,39.5
+Kyrgyzstan,2007,67.2,39
+Kyrgyzstan,2006,66.7,38.5
+Kyrgyzstan,2005,66.9,38
+Kyrgyzstan,2004,67.1,37.5
+Kyrgyzstan,2003,66.6,37
+Kyrgyzstan,2002,66.7,36.5
+Kyrgyzstan,2001,67.2,36
+Kyrgyzstan,2000,66.6,35.6
+Lao People's Democratic Republic,2015,65.7,21.7
+Lao People's Democratic Republic,2014,65.3,2.9
+Lao People's Democratic Republic,2013,64.9,2.1
+Lao People's Democratic Republic,2012,64.4,19.4
+Lao People's Democratic Republic,2011,64,18.7
+Lao People's Democratic Republic,2010,63.6,18
+Lao People's Democratic Republic,2009,63.1,17.3
+Lao People's Democratic Republic,2008,62.6,16.7
+Lao People's Democratic Republic,2007,62.1,16.1
+Lao People's Democratic Republic,2006,61.5,15.5
+Lao People's Democratic Republic,2005,61,14.9
+Lao People's Democratic Republic,2004,64,14.4
+Lao People's Democratic Republic,2003,59.8,13.8
+Lao People's Democratic Republic,2002,59.3,13.3
+Lao People's Democratic Republic,2001,58.7,12.7
+Lao People's Democratic Republic,2000,58.1,12.3
+Latvia,2015,74.6,61.2
+Latvia,2014,74.4,6.7
+Latvia,2013,74.1,6.2
+Latvia,2012,73.8,59.8
+Latvia,2011,73.6,59.4
+Latvia,2010,72.8,58.9
+Latvia,2009,72.6,58.5
+Latvia,2008,71.9,58.1
+Latvia,2007,78,57.7
+Latvia,2006,75,57.4
+Latvia,2005,76,57
+Latvia,2004,71,56.6
+Latvia,2003,78,56.3
+Latvia,2002,73,56
+Latvia,2001,69.9,55.7
+Latvia,2000,71,55.4
+Lebanon,2015,74.9,66.1
+Lebanon,2014,74.8,65.4
+Lebanon,2013,74.9,64.9
+Lebanon,2012,75,64.4
+Lebanon,2011,75,64
+Lebanon,2010,74.9,63.5
+Lebanon,2009,74.7,63
+Lebanon,2008,74.5,62.5
+Lebanon,2007,74.4,61.9
+Lebanon,2006,74.1,61.4
+Lebanon,2005,73.9,6.8
+Lebanon,2004,73.7,6.2
+Lebanon,2003,73.5,59.7
+Lebanon,2002,73.2,59.1
+Lebanon,2001,73,58.6
+Lebanon,2000,72.7,57.9
+Lesotho,2015,53.7,32.6
+Lesotho,2014,52.1,32
+Lesotho,2013,52.1,31.4
+Lesotho,2012,52.2,3.8
+Lesotho,2011,52.3,3.2
+Lesotho,2010,51.1,29.7
+Lesotho,2009,49.4,29.2
+Lesotho,2008,47.8,28.8
+Lesotho,2007,46.2,28.3
+Lesotho,2006,45.3,27.9
+Lesotho,2005,44.5,27.4
+Lesotho,2004,44.8,26.9
+Lesotho,2003,45.5,26.4
+Lesotho,2002,46.4,25.9
+Lesotho,2001,47.8,25.4
+Lesotho,2000,49.3,24.9
+Liberia,2015,61.4,27.3
+Liberia,2014,58.1,26.7
+Liberia,2013,61.1,26.1
+Liberia,2012,67,25.6
+Liberia,2011,62,25
+Liberia,2010,59.7,24.5
+Liberia,2009,59.2,24
+Liberia,2008,58.6,23.4
+Liberia,2007,57.9,22.9
+Liberia,2006,56.7,22.4
+Liberia,2005,55.3,22
+Liberia,2004,54,21.5
+Liberia,2003,50,21.1
+Liberia,2002,56,2.7
+Liberia,2001,51.5,2.4
+Liberia,2000,51.9,2.2
+Libya,2015,72.7,64.8
+Libya,2014,72.4,63.8
+Libya,2013,72.9,62.8
+Libya,2012,72.9,61.8
+Libya,2011,71.3,6.9
+Libya,2010,72.8,59.9
+Libya,2009,72.7,59
+Libya,2008,72.6,58.2
+Libya,2007,72.5,57.4
+Libya,2006,72.2,56.7
+Libya,2005,71.9,56
+Libya,2004,71.5,55.3
+Libya,2003,71.3,54.6
+Libya,2002,71.1,54
+Libya,2001,71,53.4
+Libya,2000,78,52.8
+Lithuania,2015,73.6,62.4
+Lithuania,2014,73.4,61.9
+Lithuania,2013,73,61.4
+Lithuania,2012,73,6.9
+Lithuania,2011,72.8,6.5
+Lithuania,2010,72.4,6
+Lithuania,2009,72.2,59.7
+Lithuania,2008,71.1,59.3
+Lithuania,2007,72,59
+Lithuania,2006,76,58.7
+Lithuania,2005,78,58.4
+Lithuania,2004,71.6,58.1
+Lithuania,2003,71.6,57.8
+Lithuania,2002,71.4,57.5
+Lithuania,2001,71.2,57.2
+Lithuania,2000,71.6,56.9
+Luxembourg,2015,82,61.3
+Luxembourg,2014,81.7,6.9
+Luxembourg,2013,81.4,6.5
+Luxembourg,2012,81.1,6.1
+Luxembourg,2011,88,59.6
+Luxembourg,2010,86,59.2
+Luxembourg,2009,83,58.8
+Luxembourg,2008,80,58.4
+Luxembourg,2007,79.7,57.9
+Luxembourg,2006,79.4,57.5
+Luxembourg,2005,78.8,57
+Luxembourg,2004,78.7,56.4
+Luxembourg,2003,78.6,55.8
+Luxembourg,2002,78.3,55.2
+Luxembourg,2001,78,54.6
+Luxembourg,2000,77.8,54
+Madagascar,2015,65.5,2.5
+Madagascar,2014,65.1,2
+Madagascar,2013,64.7,19.5
+Madagascar,2012,64.3,19
+Madagascar,2011,63.8,18.5
+Madagascar,2010,63.3,18
+Madagascar,2009,62.8,17.6
+Madagascar,2008,62.3,17.1
+Madagascar,2007,61.9,16.7
+Madagascar,2006,61.4,16.3
+Madagascar,2005,69,15.8
+Madagascar,2004,64,15.4
+Madagascar,2003,59.9,15
+Madagascar,2002,59.3,14.7
+Madagascar,2001,58.7,14.3
+Madagascar,2000,57.9,13.9
+Malawi,2015,58.3,19.6
+Malawi,2014,57.6,19.2
+Malawi,2013,56.7,18.8
+Malawi,2012,55.3,18.4
+Malawi,2011,54.1,18
+Malawi,2010,52.9,17.6
+Malawi,2009,51.5,17.3
+Malawi,2008,50,16.9
+Malawi,2007,48.5,16.6
+Malawi,2006,47.1,16.2
+Malawi,2005,46,15.9
+Malawi,2004,45.1,15.5
+Malawi,2003,44.6,15.2
+Malawi,2002,44,14.8
+Malawi,2001,43.5,14.4
+Malawi,2000,43.1,14.1
+Malaysia,2015,75,4.6
+Malaysia,2014,74.8,39.5
+Malaysia,2013,74.6,38.5
+Malaysia,2012,74.5,37.4
+Malaysia,2011,74.3,36.3
+Malaysia,2010,74.1,35.3
+Malaysia,2009,74,34.4
+Malaysia,2008,73.8,33.4
+Malaysia,2007,73.7,32.5
+Malaysia,2006,73.6,31.6
+Malaysia,2005,73.4,3.7
+Malaysia,2004,73.2,29.8
+Malaysia,2003,73.1,28.8
+Malaysia,2002,72.9,27.9
+Malaysia,2001,72.7,27
+Malaysia,2000,72.4,26
+Maldives,2015,78.5,27.4
+Maldives,2014,78.2,26.2
+Maldives,2013,77.9,25.1
+Maldives,2012,77.6,24.1
+Maldives,2011,77.3,23.1
+Maldives,2010,76.7,22.1
+Maldives,2009,76.3,21.2
+Maldives,2008,75.9,2.3
+Maldives,2007,75.4,19.5
+Maldives,2006,75,18.7
+Maldives,2005,74.3,18
+Maldives,2004,73.4,17.3
+Maldives,2003,72.7,16.7
+Maldives,2002,71.8,16.2
+Maldives,2001,78,15.6
+Maldives,2000,69.6,15.2
+Mali,2015,58.2,23.8
+Mali,2014,57.8,23.2
+Mali,2013,57.3,22.5
+Mali,2012,57.2,21.9
+Mali,2011,56.8,21.3
+Mali,2010,56.5,2.7
+Mali,2009,56,2.2
+Mali,2008,55.5,19.6
+Mali,2007,55,19
+Mali,2006,54.3,18.5
+Mali,2005,53.6,18
+Mali,2004,52.8,17.5
+Mali,2003,52,17
+Mali,2002,51.2,16.5
+Mali,2001,55,16.1
+Mali,2000,49.8,15.6
+Malta,2015,81.7,69.6
+Malta,2014,81.4,69.2
+Malta,2013,81.1,68.8
+Malta,2012,81,68.4
+Malta,2011,87,68
+Malta,2010,83,67.6
+Malta,2009,82,67.1
+Malta,2008,80,66.6
+Malta,2007,79.6,66.1
+Malta,2006,79.3,65.6
+Malta,2005,79,65
+Malta,2004,78.7,64.5
+Malta,2003,78.5,63.9
+Malta,2002,78.2,63.4
+Malta,2001,77.8,62.8
+Malta,2000,77.5,62.3
+Marshall Islands,2013,,81.6
+Mauritania,2015,63.1,3.8
+Mauritania,2014,63,3.1
+Mauritania,2013,62.7,29.4
+Mauritania,2012,62.5,28.8
+Mauritania,2011,62.2,28.1
+Mauritania,2010,62,27.4
+Mauritania,2009,61.7,26.8
+Mauritania,2008,61.4,26.1
+Mauritania,2007,61.2,25.5
+Mauritania,2006,69,24.8
+Mauritania,2005,66,24.2
+Mauritania,2004,64,23.6
+Mauritania,2003,63,22.9
+Mauritania,2002,62,22.3
+Mauritania,2001,61,21.7
+Mauritania,2000,60,21.1
+Mauritius,2015,74.6,33.3
+Mauritius,2014,74.2,32.8
+Mauritius,2013,74.1,32.3
+Mauritius,2012,73.9,31.8
+Mauritius,2011,73.6,31.3
+Mauritius,2010,73.3,3.7
+Mauritius,2009,72.8,3.2
+Mauritius,2008,72.7,29.7
+Mauritius,2007,72.9,29.1
+Mauritius,2006,71.8,28.6
+Mauritius,2005,72.1,28
+Mauritius,2004,71.9,27.5
+Mauritius,2003,71.5,26.9
+Mauritius,2002,71.5,26.4
+Mauritius,2001,71.5,25.8
+Mauritius,2000,71,25.3
+Mexico,2015,76.7,63.5
+Mexico,2014,76.6,62.8
+Mexico,2013,76.6,62.1
+Mexico,2012,76.3,61.5
+Mexico,2011,76.1,6.8
+Mexico,2010,75.6,6.1
+Mexico,2009,75.7,59.4
+Mexico,2008,75.6,58.7
+Mexico,2007,76,57.9
+Mexico,2006,75.8,57.2
+Mexico,2005,75.3,56.4
+Mexico,2004,75.4,55.7
+Mexico,2003,75,54.9
+Mexico,2002,75,54.1
+Mexico,2001,75,53.2
+Mexico,2000,74.8,52.4
+Micronesia (Federated States of),2015,69.4,69.4
+Micronesia (Federated States of),2014,69.4,68.7
+Micronesia (Federated States of),2013,69.2,68.1
+Micronesia (Federated States of),2012,69,67.5
+Micronesia (Federated States of),2011,68.9,67
+Micronesia (Federated States of),2010,68.7,66.4
+Micronesia (Federated States of),2009,68.5,65.8
+Micronesia (Federated States of),2008,68.4,65.2
+Micronesia (Federated States of),2007,68.2,64.7
+Micronesia (Federated States of),2006,68,64.1
+Micronesia (Federated States of),2005,67.9,63.6
+Micronesia (Federated States of),2004,67.7,63.2
+Micronesia (Federated States of),2003,67.5,62.8
+Micronesia (Federated States of),2002,66.2,62.4
+Micronesia (Federated States of),2001,67.2,62
+Micronesia (Federated States of),2000,67,61.5
+Monaco,2013,,
+Mongolia,2015,68.8,52.7
+Mongolia,2014,68.4,51.5
+Mongolia,2013,68.1,5.4
+Mongolia,2012,67.8,49.2
+Mongolia,2011,67.3,48
+Mongolia,2010,66.3,46.9
+Mongolia,2009,66.9,45.9
+Mongolia,2008,67.4,44.9
+Mongolia,2007,65.9,43.9
+Mongolia,2006,65,43
+Mongolia,2005,64.5,42.1
+Mongolia,2004,64,41.3
+Mongolia,2003,64,4.5
+Mongolia,2002,63.8,39.8
+Mongolia,2001,63.2,39.1
+Mongolia,2000,62.8,38.5
+Montenegro,2015,76.1,61.8
+Montenegro,2014,75.9,61.3
+Montenegro,2013,75.8,6.7
+Montenegro,2012,75.6,6.2
+Montenegro,2011,75.4,59.7
+Montenegro,2010,75.3,59.1
+Montenegro,2009,75,58.5
+Montenegro,2008,74.6,57.8
+Montenegro,2007,74.2,57.2
+Montenegro,2006,73.8,56.5
+Montenegro,2005,73.6,55.7
+Montenegro,2004,73.5,55
+Montenegro,2003,73.5,54.2
+Montenegro,2002,73.4,53.5
+Montenegro,2001,73.3,52.7
+Montenegro,2000,73,51.9
+Morocco,2015,74.3,58.5
+Morocco,2014,74.1,57.5
+Morocco,2013,73.9,56.5
+Morocco,2012,73.6,55.5
+Morocco,2011,73.3,54.6
+Morocco,2010,72.8,53.6
+Morocco,2009,72.3,52.7
+Morocco,2008,71.8,51.7
+Morocco,2007,71.4,5.8
+Morocco,2006,71,49.9
+Morocco,2005,77,49.1
+Morocco,2004,72,48.2
+Morocco,2003,69.9,47.3
+Morocco,2002,69.5,46.5
+Morocco,2001,69,45.7
+Morocco,2000,68.6,44.8
+Mozambique,2015,57.6,22.6
+Mozambique,2014,56.7,22.2
+Mozambique,2013,55.3,21.8
+Mozambique,2012,54.8,21.3
+Mozambique,2011,54.3,2.9
+Mozambique,2010,54,2.5
+Mozambique,2009,53.8,2.1
+Mozambique,2008,53.2,19.7
+Mozambique,2007,52.1,19.3
+Mozambique,2006,51.2,18.9
+Mozambique,2005,58,18.5
+Mozambique,2004,54,18.1
+Mozambique,2003,51,17.7
+Mozambique,2002,49.8,17.3
+Mozambique,2001,49.5,16.9
+Mozambique,2000,49,16.5
+Myanmar,2015,66.6,23.8
+Myanmar,2014,66.4,22.9
+Myanmar,2013,66.2,22.1
+Myanmar,2012,65.9,21.3
+Myanmar,2011,65.6,2.5
+Myanmar,2010,65.4,19.8
+Myanmar,2009,65.2,19.1
+Myanmar,2008,59.2,18.3
+Myanmar,2007,64.5,17.6
+Myanmar,2006,64.2,17
+Myanmar,2005,63.9,16.4
+Myanmar,2004,63.5,15.7
+Myanmar,2003,63.2,15.2
+Myanmar,2002,62.8,14.6
+Myanmar,2001,62.5,14.1
+Myanmar,2000,62.1,13.6
+Namibia,2015,65.8,35.7
+Namibia,2014,65.9,34.9
+Namibia,2013,66.1,34.1
+Namibia,2012,65.8,33.3
+Namibia,2011,64.3,32.5
+Namibia,2010,63,31.8
+Namibia,2009,62.4,31
+Namibia,2008,61.7,3.2
+Namibia,2007,60,29.4
+Namibia,2006,57,28.7
+Namibia,2005,55.1,27.9
+Namibia,2004,54.7,27.2
+Namibia,2003,55,26.5
+Namibia,2002,55.7,25.8
+Namibia,2001,56.5,25.1
+Namibia,2000,57.4,24.5
+Nauru,2013,,87.3
+Nepal,2015,69.2,19.1
+Nepal,2014,69.6,18.5
+Nepal,2013,69.3,18
+Nepal,2012,68.9,17.4
+Nepal,2011,68.4,16.9
+Nepal,2010,68,16.4
+Nepal,2009,67.5,15.9
+Nepal,2008,67,15.4
+Nepal,2007,66.6,14.9
+Nepal,2006,66,14.4
+Nepal,2005,65.4,13.9
+Nepal,2004,64.7,13.4
+Nepal,2003,64.3,12.9
+Nepal,2002,63.1,12.4
+Nepal,2001,63.2,11.9
+Nepal,2000,62.5,11.4
+Netherlands,2015,81.9,62.1
+Netherlands,2014,81.7,61.6
+Netherlands,2013,81.4,61
+Netherlands,2012,81.1,6.5
+Netherlands,2011,81.1,59.9
+Netherlands,2010,88,59.3
+Netherlands,2009,86,58.6
+Netherlands,2008,83,57.9
+Netherlands,2007,82,57.3
+Netherlands,2006,79.8,56.5
+Netherlands,2005,79.4,55.8
+Netherlands,2004,79.2,55
+Netherlands,2003,78.7,54.2
+Netherlands,2002,78.4,53.4
+Netherlands,2001,78.3,52.6
+Netherlands,2000,78.1,51.8
+New Zealand,2015,81.6,67.5
+New Zealand,2014,81.5,66.9
+New Zealand,2013,81.3,66.4
+New Zealand,2012,81.1,65.9
+New Zealand,2011,86,65.3
+New Zealand,2010,89,64.8
+New Zealand,2009,85,64.3
+New Zealand,2008,81,63.8
+New Zealand,2007,81,63.2
+New Zealand,2006,79.9,62.6
+New Zealand,2005,79.9,62.1
+New Zealand,2004,79.2,61.5
+New Zealand,2003,79.1,6.9
+New Zealand,2002,78.7,6.3
+New Zealand,2001,78.5,59.6
+New Zealand,2000,78.6,58.9
+Nicaragua,2015,74.8,54
+Nicaragua,2014,74.5,53.2
+Nicaragua,2013,73.9,52.4
+Nicaragua,2012,73.9,51.7
+Nicaragua,2011,74.5,5.9
+Nicaragua,2010,73.2,5.2
+Nicaragua,2009,73.2,49.4
+Nicaragua,2008,72.5,48.6
+Nicaragua,2007,72.5,47.9
+Nicaragua,2006,73,47.1
+Nicaragua,2005,71.2,46.4
+Nicaragua,2004,71,45.7
+Nicaragua,2003,76,44.9
+Nicaragua,2002,75,44.2
+Nicaragua,2001,73,43.5
+Nicaragua,2000,73,42.8
+Niger,2015,61.8,19.3
+Niger,2014,61.4,18.9
+Niger,2013,69,18.5
+Niger,2012,63,18.1
+Niger,2011,59.4,17.7
+Niger,2010,58.2,17.3
+Niger,2009,57.1,16.9
+Niger,2008,56,16.5
+Niger,2007,55.2,16.1
+Niger,2006,54.5,15.7
+Niger,2005,53.7,15.4
+Niger,2004,52.9,15
+Niger,2003,52.1,14.6
+Niger,2002,51.4,14.3
+Niger,2001,56,13.9
+Niger,2000,50,13.6
+Nigeria,2015,54.5,25.4
+Nigeria,2014,53.6,24.7
+Nigeria,2013,53.2,24.1
+Nigeria,2012,52.7,23.5
+Nigeria,2011,52.3,22.8
+Nigeria,2010,52,22.2
+Nigeria,2009,51.6,21.6
+Nigeria,2008,59,21
+Nigeria,2007,55,2.4
+Nigeria,2006,49.8,19.9
+Nigeria,2005,49.2,19.3
+Nigeria,2004,48.5,18.8
+Nigeria,2003,48.1,18.3
+Nigeria,2002,47.7,17.8
+Nigeria,2001,47.4,17.3
+Nigeria,2000,47.1,16.9
+Niue,2013,,77.3
+Norway,2015,81.8,61.2
+Norway,2014,81.6,6.8
+Norway,2013,81.5,6.3
+Norway,2012,81.3,59.8
+Norway,2011,81.1,59.4
+Norway,2010,81,58.9
+Norway,2009,89,58.5
+Norway,2008,86,58
+Norway,2007,85,57.5
+Norway,2006,84,57
+Norway,2005,81,56.5
+Norway,2004,79.8,55.9
+Norway,2003,79.4,55.3
+Norway,2002,78.9,54.6
+Norway,2001,78.8,54
+Norway,2000,78.5,53.3
+Oman,2015,76.6,54.6
+Oman,2014,76.4,53.5
+Oman,2013,76.2,52.8
+Oman,2012,76,52.3
+Oman,2011,75.8,52
+Oman,2010,75.6,51.8
+Oman,2009,75.4,51.5
+Oman,2008,75.2,51.1
+Oman,2007,74.9,5.6
+Oman,2006,74.7,5.1
+Oman,2005,74.3,49.5
+Oman,2004,74,48.9
+Oman,2003,73.6,48.1
+Oman,2002,73.3,47.3
+Oman,2001,72.9,46.5
+Oman,2000,72.6,45.9
+Pakistan,2015,66.4,25.4
+Pakistan,2014,66.2,24.7
+Pakistan,2013,66,23.9
+Pakistan,2012,65.7,23.2
+Pakistan,2011,65.5,22.5
+Pakistan,2010,65.1,21.9
+Pakistan,2009,64.8,21.3
+Pakistan,2008,64.6,2.6
+Pakistan,2007,64.4,2.1
+Pakistan,2006,64.2,19.5
+Pakistan,2005,62.9,18.9
+Pakistan,2004,63.7,18.4
+Pakistan,2003,63.5,17.9
+Pakistan,2002,63.2,17.4
+Pakistan,2001,63,16.9
+Pakistan,2000,62.8,16.4
+Palau,2013,,83.3
+Panama,2015,77.8,57.8
+Panama,2014,77.6,57.1
+Panama,2013,77.5,56.3
+Panama,2012,77.2,55.6
+Panama,2011,77.3,54.9
+Panama,2010,76.5,54.2
+Panama,2009,76.8,53.4
+Panama,2008,76.5,52.7
+Panama,2007,76.4,51.9
+Panama,2006,76.2,51.1
+Panama,2005,75.8,5.3
+Panama,2004,75.8,49.5
+Panama,2003,75.5,48.6
+Panama,2002,75.7,47.8
+Panama,2001,75.5,46.9
+Panama,2000,75.7,45.9
+Papua New Guinea,2015,62.9,48.6
+Papua New Guinea,2014,62.7,47.9
+Papua New Guinea,2013,62.4,47.2
+Papua New Guinea,2012,62.2,46.4
+Papua New Guinea,2011,62,45.7
+Papua New Guinea,2010,61.8,44.9
+Papua New Guinea,2009,61.6,44.2
+Papua New Guinea,2008,61.4,43.4
+Papua New Guinea,2007,61.1,42.7
+Papua New Guinea,2006,68,41.9
+Papua New Guinea,2005,64,41.1
+Papua New Guinea,2004,59.9,4.4
+Papua New Guinea,2003,59.6,39.6
+Papua New Guinea,2002,59.3,38.9
+Papua New Guinea,2001,59.1,38.2
+Papua New Guinea,2000,58.9,37.5
+Paraguay,2015,74,5.2
+Paraguay,2014,73.9,49.4
+Paraguay,2013,73.8,48.6
+Paraguay,2012,73.6,47.9
+Paraguay,2011,73.4,47.1
+Paraguay,2010,73.2,46.4
+Paraguay,2009,73,45.6
+Paraguay,2008,72.7,44.9
+Paraguay,2007,72.5,44.2
+Paraguay,2006,72.3,43.5
+Paraguay,2005,72.1,42.8
+Paraguay,2004,71.9,42
+Paraguay,2003,71.7,41.3
+Paraguay,2002,71.5,4.6
+Paraguay,2001,71.2,39.8
+Paraguay,2000,79,39.1
+Peru,2015,75.5,55.6
+Peru,2014,75.3,54.9
+Peru,2013,75.3,54.2
+Peru,2012,74.9,53.6
+Peru,2011,74.5,52.9
+Peru,2010,73.7,52.2
+Peru,2009,73.8,51.5
+Peru,2008,73.9,5.8
+Peru,2007,74,5.2
+Peru,2006,74.2,49.5
+Peru,2005,72.8,48.8
+Peru,2004,72.2,48.1
+Peru,2003,72.1,47.4
+Peru,2002,72.6,46.7
+Peru,2001,72.4,46.1
+Peru,2000,71.4,45.4
+Philippines,2015,68.5,25.4
+Philippines,2014,68.4,24.8
+Philippines,2013,68.1,24.3
+Philippines,2012,68.1,23.7
+Philippines,2011,68,23.1
+Philippines,2010,67.9,22.6
+Philippines,2009,68,22.1
+Philippines,2008,67.5,21.6
+Philippines,2007,67.5,21.1
+Philippines,2006,67.3,2.6
+Philippines,2005,67,2.1
+Philippines,2004,67.3,19.6
+Philippines,2003,67.2,19.2
+Philippines,2002,66.8,18.7
+Philippines,2001,66.8,18.3
+Philippines,2000,66.8,17.8
+Poland,2015,77.5,61.7
+Poland,2014,77.3,61.1
+Poland,2013,77.1,6.4
+Poland,2012,76.8,59.7
+Poland,2011,76.7,59.1
+Poland,2010,76.3,58.4
+Poland,2009,75.7,57.8
+Poland,2008,75.5,57.2
+Poland,2007,75.3,56.6
+Poland,2006,75.2,56
+Poland,2005,75,55.5
+Poland,2004,74.9,55
+Poland,2003,74.7,54.5
+Poland,2002,74.5,54
+Poland,2001,74.2,53.6
+Poland,2000,73.7,53.1
+Portugal,2015,81.1,61.6
+Portugal,2014,89,6.9
+Portugal,2013,86,6.2
+Portugal,2012,83,59.5
+Portugal,2011,82,58.8
+Portugal,2010,79.6,58.1
+Portugal,2009,79.3,57.3
+Portugal,2008,79,56.5
+Portugal,2007,78.7,55.7
+Portugal,2006,78.5,54.9
+Portugal,2005,77.7,54.1
+Portugal,2004,78,53.3
+Portugal,2003,77.3,52.5
+Portugal,2002,77.2,51.7
+Portugal,2001,76.9,5.9
+Portugal,2000,76.6,5.1
+Qatar,2015,78.2,69.3
+Qatar,2014,78.1,68.4
+Qatar,2013,77.9,67.7
+Qatar,2012,77.8,67
+Qatar,2011,77.5,66.5
+Qatar,2010,77.3,66
+Qatar,2009,77,65.6
+Qatar,2008,76.8,65.2
+Qatar,2007,76.7,65.1
+Qatar,2006,76.6,65
+Qatar,2005,76.6,65.1
+Qatar,2004,76.6,65
+Qatar,2003,76.5,64.7
+Qatar,2002,76.4,64.1
+Qatar,2001,76.3,63.3
+Qatar,2000,76.2,62.4
+Republic of Korea,2015,82.3,31.7
+Republic of Korea,2014,82,31.2
+Republic of Korea,2013,81.7,3.8
+Republic of Korea,2012,81.2,3.4
+Republic of Korea,2011,81.1,3
+Republic of Korea,2010,87,29.5
+Republic of Korea,2009,86,29.1
+Republic of Korea,2008,83,28.6
+Republic of Korea,2007,79.8,28.2
+Republic of Korea,2006,79.4,27.7
+Republic of Korea,2005,78.7,27.2
+Republic of Korea,2004,78.2,26.7
+Republic of Korea,2003,77.6,26.2
+Republic of Korea,2002,77.1,25.7
+Republic of Korea,2001,76.7,25.2
+Republic of Korea,2000,76,24.7
+Republic of Moldova,2015,72.1,53.4
+Republic of Moldova,2014,71.8,52.7
+Republic of Moldova,2013,71.7,52.1
+Republic of Moldova,2012,79,51.5
+Republic of Moldova,2011,77,5.9
+Republic of Moldova,2010,68.8,5.4
+Republic of Moldova,2009,69,49.9
+Republic of Moldova,2008,68.9,49.5
+Republic of Moldova,2007,68.3,49.1
+Republic of Moldova,2006,68,48.7
+Republic of Moldova,2005,67.3,48.3
+Republic of Moldova,2004,68,47.9
+Republic of Moldova,2003,67.6,47.6
+Republic of Moldova,2002,67.5,47.2
+Republic of Moldova,2001,67.6,46.8
+Republic of Moldova,2000,67.1,46.5
+Romania,2015,75,6.7
+Romania,2014,74.8,59.9
+Romania,2013,74.6,59.2
+Romania,2012,74.4,58.4
+Romania,2011,74.3,57.7
+Romania,2010,73.4,56.9
+Romania,2009,73.1,56.3
+Romania,2008,73.1,55.6
+Romania,2007,72.9,55
+Romania,2006,72.5,54.4
+Romania,2005,71.9,53.9
+Romania,2004,71.7,53.4
+Romania,2003,71.1,52.9
+Romania,2002,77,52.4
+Romania,2001,78,51.9
+Romania,2000,77,51.4
+Russian Federation,2015,75,6.5
+Russian Federation,2014,73,59.9
+Russian Federation,2013,70,59.3
+Russian Federation,2012,69.6,58.7
+Russian Federation,2011,69.4,58.1
+Russian Federation,2010,68.4,57.5
+Russian Federation,2009,68.2,57
+Russian Federation,2008,67.5,56.6
+Russian Federation,2007,67.3,56.1
+Russian Federation,2006,66.4,55.7
+Russian Federation,2005,65,55.3
+Russian Federation,2004,64.9,55
+Russian Federation,2003,64.6,54.7
+Russian Federation,2002,64.8,54.5
+Russian Federation,2001,65.1,54.2
+Russian Federation,2000,65,54
+Rwanda,2015,66.1,21.4
+Rwanda,2014,65.7,2.8
+Rwanda,2013,65.2,2.1
+Rwanda,2012,64.6,19.5
+Rwanda,2011,63.8,18.9
+Rwanda,2010,62.8,18.3
+Rwanda,2009,61,17.7
+Rwanda,2008,68,17.1
+Rwanda,2007,59.6,16.5
+Rwanda,2006,57.6,15.9
+Rwanda,2005,55.3,15.4
+Rwanda,2004,53.4,14.9
+Rwanda,2003,52,14.5
+Rwanda,2002,57,14.1
+Rwanda,2001,48.6,13.7
+Rwanda,2000,48.3,13.2
+Saint Kitts and Nevis,2013,,5.2
+Saint Lucia,2015,75.2,47.5
+Saint Lucia,2014,75,46.7
+Saint Lucia,2013,74.8,45.9
+Saint Lucia,2012,74.7,45.2
+Saint Lucia,2011,74.6,44.5
+Saint Lucia,2010,74.2,43.8
+Saint Lucia,2009,74.3,43
+Saint Lucia,2008,74.1,42.2
+Saint Lucia,2007,73.9,41.3
+Saint Lucia,2006,73.5,4.4
+Saint Lucia,2005,73.1,39.6
+Saint Lucia,2004,72.6,39
+Saint Lucia,2003,72.2,38.4
+Saint Lucia,2002,72,37.9
+Saint Lucia,2001,71.8,37.3
+Saint Lucia,2000,71.6,36.8
+Saint Vincent and the Grenadines,2015,73.2,54.1
+Saint Vincent and the Grenadines,2014,73.1,53.1
+Saint Vincent and the Grenadines,2013,72.7,52.2
+Saint Vincent and the Grenadines,2012,72.8,51.2
+Saint Vincent and the Grenadines,2011,72.7,5.3
+Saint Vincent and the Grenadines,2010,72.5,49.3
+Saint Vincent and the Grenadines,2009,72.3,48.4
+Saint Vincent and the Grenadines,2008,72.1,47.5
+Saint Vincent and the Grenadines,2007,71.9,46.6
+Saint Vincent and the Grenadines,2006,71.7,45.7
+Saint Vincent and the Grenadines,2005,71.4,44.7
+Saint Vincent and the Grenadines,2004,71.2,43.8
+Saint Vincent and the Grenadines,2003,71,42.9
+Saint Vincent and the Grenadines,2002,79,42
+Saint Vincent and the Grenadines,2001,79,41
+Saint Vincent and the Grenadines,2000,79,4.1
+Samoa,2015,74,74.7
+Samoa,2014,73.8,74.3
+Samoa,2013,73.6,73.8
+Samoa,2012,73.2,73.4
+Samoa,2011,73,72.9
+Samoa,2010,72.6,72.5
+Samoa,2009,76,72
+Samoa,2008,72.5,71.4
+Samoa,2007,72.2,7.9
+Samoa,2006,72,7.3
+Samoa,2005,71.6,69.7
+Samoa,2004,71.4,68.9
+Samoa,2003,79,68.2
+Samoa,2002,76,67.4
+Samoa,2001,75,66.5
+Samoa,2000,72,65.6
+San Marino,2013,,
+Sao Tome and Principe,2015,67.5,3.9
+Sao Tome and Principe,2014,67.3,3.1
+Sao Tome and Principe,2013,67.1,29.3
+Sao Tome and Principe,2012,66.9,28.5
+Sao Tome and Principe,2011,66.6,27.7
+Sao Tome and Principe,2010,66.2,26.9
+Sao Tome and Principe,2009,65.8,26.2
+Sao Tome and Principe,2008,65.4,25.4
+Sao Tome and Principe,2007,65.1,24.7
+Sao Tome and Principe,2006,64.7,24
+Sao Tome and Principe,2005,64.3,23.4
+Sao Tome and Principe,2004,63.8,22.8
+Sao Tome and Principe,2003,63.4,22.2
+Sao Tome and Principe,2002,63.1,21.7
+Sao Tome and Principe,2001,62.8,21.1
+Sao Tome and Principe,2000,62.6,2.7
+Saudi Arabia,2015,74.5,68.2
+Saudi Arabia,2014,74.4,67.3
+Saudi Arabia,2013,74.3,66.4
+Saudi Arabia,2012,74.1,65.6
+Saudi Arabia,2011,73.9,64.7
+Saudi Arabia,2010,73.7,63.9
+Saudi Arabia,2009,73.4,63.1
+Saudi Arabia,2008,73.3,62.4
+Saudi Arabia,2007,73.2,61.6
+Saudi Arabia,2006,73.2,6.9
+Saudi Arabia,2005,73.1,6.2
+Saudi Arabia,2004,73.1,59.4
+Saudi Arabia,2003,73,58.5
+Saudi Arabia,2002,72.9,57.7
+Saudi Arabia,2001,72.8,56.9
+Saudi Arabia,2000,72.6,56.2
+Senegal,2015,66.7,24.3
+Senegal,2014,66.4,23.8
+Senegal,2013,66,23.2
+Senegal,2012,65.6,22.7
+Senegal,2011,64.9,22.2
+Senegal,2010,64.3,21.7
+Senegal,2009,63.5,21.2
+Senegal,2008,62.8,2.8
+Senegal,2007,62.1,2.3
+Senegal,2006,61.3,19.9
+Senegal,2005,65,19.5
+Senegal,2004,59.7,19.1
+Senegal,2003,59,18.7
+Senegal,2002,58.4,18.3
+Senegal,2001,57.9,17.9
+Senegal,2000,57.5,17.5
+Serbia,2015,75.6,6
+Serbia,2014,75.4,59.4
+Serbia,2013,75.3,58.9
+Serbia,2012,74.9,58.3
+Serbia,2011,74.6,57.7
+Serbia,2010,74.4,57
+Serbia,2009,74.1,56.4
+Serbia,2008,74,55.8
+Serbia,2007,73.8,55.1
+Serbia,2006,73.6,54.5
+Serbia,2005,73,53.9
+Serbia,2004,73,53.3
+Serbia,2003,73,52.8
+Serbia,2002,72.9,52.2
+Serbia,2001,73.1,51.7
+Serbia,2000,72.6,51.2
+Seychelles,2015,73.2,37.4
+Seychelles,2014,73,36.2
+Seychelles,2013,72.9,35.5
+Seychelles,2012,72.7,34.8
+Seychelles,2011,72.6,34.2
+Seychelles,2010,72.4,33.5
+Seychelles,2009,72.3,32.4
+Seychelles,2008,72.2,31.8
+Seychelles,2007,72.2,31.2
+Seychelles,2006,72.2,3.7
+Seychelles,2005,72.2,3.1
+Seychelles,2004,72.1,29.2
+Seychelles,2003,72.1,28.7
+Seychelles,2002,72.1,28.1
+Seychelles,2001,72,27.6
+Seychelles,2000,71.8,27.1
+Sierra Leone,2015,51,24.4
+Sierra Leone,2014,48.1,23.8
+Sierra Leone,2013,54,23.3
+Sierra Leone,2012,49.7,22.7
+Sierra Leone,2011,48.9,22.2
+Sierra Leone,2010,48.1,21.7
+Sierra Leone,2009,47.1,21.2
+Sierra Leone,2008,46.2,2.7
+Sierra Leone,2007,45.3,2.2
+Sierra Leone,2006,44.3,19.7
+Sierra Leone,2005,43.3,19.2
+Sierra Leone,2004,42.3,18.8
+Sierra Leone,2003,41.5,18.4
+Sierra Leone,2002,48,17.9
+Sierra Leone,2001,41,17.5
+Sierra Leone,2000,39,17.2
+Singapore,2015,83.1,33.2
+Singapore,2014,82.9,32.9
+Singapore,2013,82.7,32.7
+Singapore,2012,82.5,32.4
+Singapore,2011,82.2,32.1
+Singapore,2010,82,31.8
+Singapore,2009,81.7,31.5
+Singapore,2008,81.4,31.2
+Singapore,2007,81.1,3.9
+Singapore,2006,87,3.5
+Singapore,2005,82,3.2
+Singapore,2004,79.7,29.9
+Singapore,2003,79.3,29.6
+Singapore,2002,79,29.2
+Singapore,2001,78.7,28.9
+Singapore,2000,78.3,28.5
+Slovakia,2015,76.7,59.1
+Slovakia,2014,76.4,58.4
+Slovakia,2013,76.1,57.8
+Slovakia,2012,75.8,57.2
+Slovakia,2011,75.6,56.5
+Slovakia,2010,75.1,55.9
+Slovakia,2009,75,55.3
+Slovakia,2008,74.7,54.8
+Slovakia,2007,74.4,54.2
+Slovakia,2006,74.3,53.7
+Slovakia,2005,74,53.1
+Slovakia,2004,74.1,52.6
+Slovakia,2003,73.8,52.1
+Slovakia,2002,73.7,51.6
+Slovakia,2001,73.3,51.1
+Slovakia,2000,73,5.7
+Slovenia,2015,88,6.1
+Slovenia,2014,87,59.5
+Slovenia,2013,85,58.9
+Slovenia,2012,82,58.2
+Slovenia,2011,79.8,57.6
+Slovenia,2010,79.5,57
+Slovenia,2009,79.1,56.4
+Slovenia,2008,78.9,55.8
+Slovenia,2007,78.3,55.2
+Slovenia,2006,78.1,54.7
+Slovenia,2005,77.5,54.1
+Slovenia,2004,77.2,53.5
+Slovenia,2003,76.5,52.9
+Slovenia,2002,76.6,52.3
+Slovenia,2001,76.2,51.8
+Slovenia,2000,76,51.2
+Solomon Islands,2015,69.2,5.5
+Solomon Islands,2014,68.8,49.7
+Solomon Islands,2013,68.8,48.9
+Solomon Islands,2012,68.7,48.1
+Solomon Islands,2011,68.5,47.2
+Solomon Islands,2010,68.3,46.4
+Solomon Islands,2009,68.1,45.5
+Solomon Islands,2008,68,44.7
+Solomon Islands,2007,67.6,43.8
+Solomon Islands,2006,67.6,43
+Solomon Islands,2005,67.4,42.1
+Solomon Islands,2004,67.1,41.3
+Solomon Islands,2003,66.8,4.4
+Solomon Islands,2002,66.5,39.6
+Solomon Islands,2001,66.2,38.7
+Solomon Islands,2000,65.8,37.9
+Somalia,2015,55,24.3
+Somalia,2014,54.3,23.8
+Somalia,2013,54.2,23.3
+Somalia,2012,53.1,22.9
+Somalia,2011,53.1,22.4
+Somalia,2010,52.4,22
+Somalia,2009,52.2,21.5
+Somalia,2008,51.9,21.1
+Somalia,2007,51.5,2.7
+Somalia,2006,51.5,2.2
+Somalia,2005,51.6,19.8
+Somalia,2004,51.2,19.4
+Somalia,2003,51.1,19
+Somalia,2002,58,18.6
+Somalia,2001,57,18.2
+Somalia,2000,55,17.8
+South Africa,2015,62.9,51.1
+South Africa,2014,62,5.3
+South Africa,2013,69,49.5
+South Africa,2012,59.2,48.7
+South Africa,2011,58.9,47.9
+South Africa,2010,58,47.2
+South Africa,2009,56.5,46.4
+South Africa,2008,55.3,45.7
+South Africa,2007,54.5,45
+South Africa,2006,54,44.3
+South Africa,2005,53.8,43.6
+South Africa,2004,53.7,42.9
+South Africa,2003,54,42.2
+South Africa,2002,54.9,41.6
+South Africa,2001,56,4.9
+South Africa,2000,57.3,4.1
+Spain,2015,82.8,66.6
+Spain,2014,82.6,66
+Spain,2013,82.4,65.4
+Spain,2012,82,64.8
+Spain,2011,82.1,64.1
+Spain,2010,81.9,63.5
+Spain,2009,81.6,62.9
+Spain,2008,81.3,62.3
+Spain,2007,89,61.7
+Spain,2006,88,61.1
+Spain,2005,81,6.5
+Spain,2004,81,59.9
+Spain,2003,79.4,59.3
+Spain,2002,79.5,58.8
+Spain,2001,79.4,58.2
+Spain,2000,79.1,57.6
+Sri Lanka,2015,74.9,23.4
+Sri Lanka,2014,74.7,22.7
+Sri Lanka,2013,74.6,21.9
+Sri Lanka,2012,74.5,21.2
+Sri Lanka,2011,74.5,2.5
+Sri Lanka,2010,74.5,19.8
+Sri Lanka,2009,71.8,19.2
+Sri Lanka,2008,72.3,18.5
+Sri Lanka,2007,73.7,17.9
+Sri Lanka,2006,73.8,17.2
+Sri Lanka,2005,74.2,16.6
+Sri Lanka,2004,69.1,16.1
+Sri Lanka,2003,73.9,15.6
+Sri Lanka,2002,73.7,15.1
+Sri Lanka,2001,72.7,14.6
+Sri Lanka,2000,71.5,14.1
+Suriname,2015,71.6,58.3
+Suriname,2014,71.4,57.7
+Suriname,2013,71.2,57
+Suriname,2012,71.3,56.3
+Suriname,2011,76,55.5
+Suriname,2010,73,54.8
+Suriname,2009,70,54.1
+Suriname,2008,69.8,53.3
+Suriname,2007,69.5,52.6
+Suriname,2006,69.3,51.8
+Suriname,2005,68.9,51.1
+Suriname,2004,68.3,5.4
+Suriname,2003,68,49.7
+Suriname,2002,67.9,49
+Suriname,2001,67.7,48.3
+Suriname,2000,67.4,47.6
+Swaziland,2015,58.9,32.3
+Swaziland,2014,58.4,31.8
+Swaziland,2013,57.6,31.2
+Swaziland,2012,56.5,3.7
+Swaziland,2011,55,3.2
+Swaziland,2010,53.6,29.7
+Swaziland,2009,52.6,29.3
+Swaziland,2008,51.4,28.9
+Swaziland,2007,50,28.5
+Swaziland,2006,47.8,28.2
+Swaziland,2005,46,27.8
+Swaziland,2004,45.6,27.4
+Swaziland,2003,45.9,27.1
+Swaziland,2002,46.4,26.7
+Swaziland,2001,47.1,26.3
+Swaziland,2000,48.4,25.9
+Sweden,2015,82.4,59.5
+Sweden,2014,82.3,59
+Sweden,2013,81.9,58.5
+Sweden,2012,81.7,58.1
+Sweden,2011,81.7,57.7
+Sweden,2010,81.5,57.3
+Sweden,2009,81.4,56.9
+Sweden,2008,81.1,56.5
+Sweden,2007,89,56.1
+Sweden,2006,88,55.7
+Sweden,2005,85,55.3
+Sweden,2004,83,54.9
+Sweden,2003,82,54.4
+Sweden,2002,79.9,53.9
+Sweden,2001,79.8,53.4
+Sweden,2000,79.6,52.8
+Switzerland,2015,83.4,57.4
+Switzerland,2014,83.2,57
+Switzerland,2013,83,56.6
+Switzerland,2012,82.7,56.2
+Switzerland,2011,82.6,55.8
+Switzerland,2010,82.3,55.4
+Switzerland,2009,82.1,55
+Switzerland,2008,82,54.6
+Switzerland,2007,81.7,54.1
+Switzerland,2006,81.5,53.7
+Switzerland,2005,81.1,53.2
+Switzerland,2004,81,52.8
+Switzerland,2003,85,52.3
+Switzerland,2002,84,51.8
+Switzerland,2001,82,51.3
+Switzerland,2000,79.7,5.8
+Syrian Arab Republic,2015,64.5,57.1
+Syrian Arab Republic,2014,64.4,56.2
+Syrian Arab Republic,2013,63.6,55.2
+Syrian Arab Republic,2012,62.8,54.2
+Syrian Arab Republic,2011,71.7,53.2
+Syrian Arab Republic,2010,73.7,52.3
+Syrian Arab Republic,2009,73.8,51.3
+Syrian Arab Republic,2008,73.8,5.4
+Syrian Arab Republic,2007,73.8,49.4
+Syrian Arab Republic,2006,73.7,48.5
+Syrian Arab Republic,2005,73.5,47.6
+Syrian Arab Republic,2004,73.2,46.8
+Syrian Arab Republic,2003,73,46
+Syrian Arab Republic,2002,72.8,45.3
+Syrian Arab Republic,2001,72.7,44.6
+Syrian Arab Republic,2000,72.6,43.9
+Tajikistan,2015,69.7,4.7
+Tajikistan,2014,69.6,39.9
+Tajikistan,2013,69.3,39
+Tajikistan,2012,68.8,38.2
+Tajikistan,2011,68.1,37.4
+Tajikistan,2010,67.3,36.6
+Tajikistan,2009,66.7,35.9
+Tajikistan,2008,66.4,35.3
+Tajikistan,2007,66.1,34.7
+Tajikistan,2006,65.9,34.1
+Tajikistan,2005,65.5,33.5
+Tajikistan,2004,65.9,33
+Tajikistan,2003,65.2,32.5
+Tajikistan,2002,64.3,32.1
+Tajikistan,2001,64,31.6
+Tajikistan,2000,63.7,31.3
+Thailand,2015,74.9,33.6
+Thailand,2014,74.6,32.4
+Thailand,2013,74.5,31.3
+Thailand,2012,74.3,3.1
+Thailand,2011,74.1,29
+Thailand,2010,73.9,27.9
+Thailand,2009,73.7,26.8
+Thailand,2008,73.5,25.7
+Thailand,2007,73.3,24.6
+Thailand,2006,73,23.6
+Thailand,2005,72.5,22.6
+Thailand,2004,71.6,21.7
+Thailand,2003,71.7,2.9
+Thailand,2002,71.4,2.2
+Thailand,2001,71.2,19.4
+Thailand,2000,71.1,18.7
+The former Yugoslav republic of Macedonia,2015,75.7,6.3
+The former Yugoslav republic of Macedonia,2014,75.5,59.7
+The former Yugoslav republic of Macedonia,2013,75.3,59.1
+The former Yugoslav republic of Macedonia,2012,75.1,58.5
+The former Yugoslav republic of Macedonia,2011,74.9,57.9
+The former Yugoslav republic of Macedonia,2010,74.7,57.4
+The former Yugoslav republic of Macedonia,2009,74.4,56.9
+The former Yugoslav republic of Macedonia,2008,74.2,56.4
+The former Yugoslav republic of Macedonia,2007,73.5,55.9
+The former Yugoslav republic of Macedonia,2006,73.7,55.4
+The former Yugoslav republic of Macedonia,2005,73.6,54.9
+The former Yugoslav republic of Macedonia,2004,73.5,54.5
+The former Yugoslav republic of Macedonia,2003,73.2,54.1
+The former Yugoslav republic of Macedonia,2002,72.8,53.6
+The former Yugoslav republic of Macedonia,2001,73.1,53.2
+The former Yugoslav republic of Macedonia,2000,72.6,52.7
+Timor-Leste,2015,68.3,17.4
+Timor-Leste,2014,68,17
+Timor-Leste,2013,67.7,16.6
+Timor-Leste,2012,67.4,16.2
+Timor-Leste,2011,67.2,15.8
+Timor-Leste,2010,66.9,15.5
+Timor-Leste,2009,66.6,15.1
+Timor-Leste,2008,66.2,14.7
+Timor-Leste,2007,65.8,14.2
+Timor-Leste,2006,64.9,13.9
+Timor-Leste,2005,63.7,13.5
+Timor-Leste,2004,62.3,13.2
+Timor-Leste,2003,61,12.9
+Timor-Leste,2002,62,12.6
+Timor-Leste,2001,59.4,12.3
+Timor-Leste,2000,58.7,11.9
+Togo,2015,59.9,24.3
+Togo,2014,59.7,23.7
+Togo,2013,59.4,23.1
+Togo,2012,58.9,22.6
+Togo,2011,58.3,22
+Togo,2010,57.4,21.4
+Togo,2009,56.7,2.9
+Togo,2008,56.2,2.4
+Togo,2007,55.9,19.8
+Togo,2006,55.7,19.3
+Togo,2005,55,18.9
+Togo,2004,54.9,18.4
+Togo,2003,54.7,17.9
+Togo,2002,54.7,17.5
+Togo,2001,54.6,17.1
+Togo,2000,54.6,16.6
+Tonga,2015,73.5,75.2
+Tonga,2014,73.3,74.8
+Tonga,2013,73.2,74.3
+Tonga,2012,73,73.8
+Tonga,2011,72.9,73.3
+Tonga,2010,72.8,72.7
+Tonga,2009,72.5,72.1
+Tonga,2008,72.6,71.5
+Tonga,2007,72.5,7.8
+Tonga,2006,72.4,7.1
+Tonga,2005,72.3,69.4
+Tonga,2004,72.2,68.6
+Tonga,2003,72,67.8
+Tonga,2002,71.9,67
+Tonga,2001,71.8,66.2
+Tonga,2000,71.6,65.5
+Trinidad and Tobago,2015,71.2,47.1
+Trinidad and Tobago,2014,71.1,46
+Trinidad and Tobago,2013,71,45
+Trinidad and Tobago,2012,78,44
+Trinidad and Tobago,2011,76,43
+Trinidad and Tobago,2010,74,42
+Trinidad and Tobago,2009,71,41.1
+Trinidad and Tobago,2008,69.9,4.2
+Trinidad and Tobago,2007,69.7,39.3
+Trinidad and Tobago,2006,69.6,38.4
+Trinidad and Tobago,2005,69.5,37.6
+Trinidad and Tobago,2004,69.4,36.8
+Trinidad and Tobago,2003,69.3,36
+Trinidad and Tobago,2002,69.2,35.2
+Trinidad and Tobago,2001,69.1,34.4
+Trinidad and Tobago,2000,69.1,33.6
+Tunisia,2015,75.3,61.2
+Tunisia,2014,75.1,6.2
+Tunisia,2013,74.9,59.3
+Tunisia,2012,74.9,58.3
+Tunisia,2011,74.8,57.4
+Tunisia,2010,74.8,56.5
+Tunisia,2009,74.7,55.6
+Tunisia,2008,74.7,54.7
+Tunisia,2007,74.6,53.9
+Tunisia,2006,74.4,53.1
+Tunisia,2005,74.2,52.2
+Tunisia,2004,74,51.4
+Tunisia,2003,73.7,5.6
+Tunisia,2002,73.5,49.7
+Tunisia,2001,73.2,48.9
+Tunisia,2000,72.9,48.1
+Turkey,2015,75.8,66.1
+Turkey,2014,75.5,65.3
+Turkey,2013,75.2,64.5
+Turkey,2012,74.8,63.7
+Turkey,2011,74.5,62.8
+Turkey,2010,74.2,61.9
+Turkey,2009,73.9,61.1
+Turkey,2008,73.5,6.2
+Turkey,2007,73.2,59.3
+Turkey,2006,72.8,58.5
+Turkey,2005,72.4,57.6
+Turkey,2004,72,56.8
+Turkey,2003,71.6,55.9
+Turkey,2002,71.2,55.1
+Turkey,2001,78,54.3
+Turkey,2000,74,53.5
+Turkmenistan,2015,66.3,48.6
+Turkmenistan,2014,66,47.7
+Turkmenistan,2013,65.4,46.7
+Turkmenistan,2012,65.6,45.9
+Turkmenistan,2011,65.6,45
+Turkmenistan,2010,65.8,44.2
+Turkmenistan,2009,65.6,43.4
+Turkmenistan,2008,64.5,42.7
+Turkmenistan,2007,64.1,42
+Turkmenistan,2006,63.7,41.3
+Turkmenistan,2005,63.3,4.7
+Turkmenistan,2004,63.5,4
+Turkmenistan,2003,63.4,39.4
+Turkmenistan,2002,63.3,38.7
+Turkmenistan,2001,64,38.1
+Turkmenistan,2000,63.8,37.5
+Tuvalu,2013,,79.3
+Uganda,2015,62.3,18.5
+Uganda,2014,61.5,18.1
+Uganda,2013,67,17.6
+Uganda,2012,60,17.2
+Uganda,2011,59.3,16.7
+Uganda,2010,58.4,16.3
+Uganda,2009,57.5,15.9
+Uganda,2008,56.3,15.6
+Uganda,2007,55.5,15.2
+Uganda,2006,54.9,14.8
+Uganda,2005,53.2,14.5
+Uganda,2004,51.3,14.2
+Uganda,2003,51,13.9
+Uganda,2002,48.8,13.6
+Uganda,2001,47.7,13.3
+Uganda,2000,46.6,13
+Ukraine,2015,71.3,61.3
+Ukraine,2014,78,6.7
+Ukraine,2013,71,6.1
+Ukraine,2012,77,59.6
+Ukraine,2011,75,59
+Ukraine,2010,69.8,58.5
+Ukraine,2009,69.2,58
+Ukraine,2008,67.7,57.6
+Ukraine,2007,67.5,57.2
+Ukraine,2006,67.7,56.8
+Ukraine,2005,67,56.4
+Ukraine,2004,67.4,56.1
+Ukraine,2003,67.6,55.7
+Ukraine,2002,67.6,55.4
+Ukraine,2001,67.7,55.1
+Ukraine,2000,67.5,54.8
+United Arab Emirates,2015,77.1,64.2
+United Arab Emirates,2014,76.9,62.4
+United Arab Emirates,2013,76.7,6.5
+United Arab Emirates,2012,76.5,58.6
+United Arab Emirates,2011,76.3,57.1
+United Arab Emirates,2010,76.2,55.8
+United Arab Emirates,2009,76,55.1
+United Arab Emirates,2008,75.8,54.8
+United Arab Emirates,2007,75.6,55.1
+United Arab Emirates,2006,75.4,55.8
+United Arab Emirates,2005,75.3,56.6
+United Arab Emirates,2004,75.1,57
+United Arab Emirates,2003,74.9,56.8
+United Arab Emirates,2002,74.7,56
+United Arab Emirates,2001,74.5,55
+United Arab Emirates,2000,74.2,54.1
+United Kingdom of Great Britain and Northern Ireland,2015,81.2,66.6
+United Kingdom of Great Britain and Northern Ireland,2014,81,66
+United Kingdom of Great Britain and Northern Ireland,2013,87,65.4
+United Kingdom of Great Britain and Northern Ireland,2012,86,64.8
+United Kingdom of Great Britain and Northern Ireland,2011,86,64.2
+United Kingdom of Great Britain and Northern Ireland,2010,82,63.6
+United Kingdom of Great Britain and Northern Ireland,2009,81,63.1
+United Kingdom of Great Britain and Northern Ireland,2008,79.6,62.5
+United Kingdom of Great Britain and Northern Ireland,2007,79.5,61.9
+United Kingdom of Great Britain and Northern Ireland,2006,79.3,61.3
+United Kingdom of Great Britain and Northern Ireland,2005,79,6.7
+United Kingdom of Great Britain and Northern Ireland,2004,78.8,6.1
+United Kingdom of Great Britain and Northern Ireland,2003,78.3,59.5
+United Kingdom of Great Britain and Northern Ireland,2002,78.2,58.8
+United Kingdom of Great Britain and Northern Ireland,2001,78,58.2
+United Kingdom of Great Britain and Northern Ireland,2000,77.8,57.5
+United Republic of Tanzania,2015,61.8,23.8
+United Republic of Tanzania,2014,67,23.2
+United Republic of Tanzania,2013,59.7,22.5
+United Republic of Tanzania,2012,58.6,21.9
+United Republic of Tanzania,2011,58.3,21.3
+United Republic of Tanzania,2010,57.5,2.7
+United Republic of Tanzania,2009,56.9,2.2
+United Republic of Tanzania,2008,56.2,19.6
+United Republic of Tanzania,2007,54.5,19.1
+United Republic of Tanzania,2006,53.1,18.6
+United Republic of Tanzania,2005,52.2,18.1
+United Republic of Tanzania,2004,51.5,17.7
+United Republic of Tanzania,2003,58,17.2
+United Republic of Tanzania,2002,52,16.8
+United Republic of Tanzania,2001,49.6,16.4
+United Republic of Tanzania,2000,49.2,16
+United States of America,2015,79.3,69.6
+United States of America,2014,79.1,69.1
+United States of America,2013,78.9,68.6
+United States of America,2012,78.8,68
+United States of America,2011,78.7,67.5
+United States of America,2010,78.7,66.9
+United States of America,2009,78.5,66.3
+United States of America,2008,78.2,65.7
+United States of America,2007,78.1,65.1
+United States of America,2006,77.8,64.4
+United States of America,2005,77.5,63.8
+United States of America,2004,77.5,63.1
+United States of America,2003,77.2,62.4
+United States of America,2002,77,61.7
+United States of America,2001,76.9,6.9
+United States of America,2000,76.8,6.1
+Uruguay,2015,77,64
+Uruguay,2014,76.8,63.4
+Uruguay,2013,76.8,62.9
+Uruguay,2012,76.5,62.3
+Uruguay,2011,77,61.8
+Uruguay,2010,76.3,61.2
+Uruguay,2009,76.6,6.7
+Uruguay,2008,76.4,6.1
+Uruguay,2007,75.4,59.5
+Uruguay,2006,76.2,58.9
+Uruguay,2005,75.7,58.3
+Uruguay,2004,75.4,57.7
+Uruguay,2003,75.4,57
+Uruguay,2002,75.4,56.3
+Uruguay,2001,75.2,55.7
+Uruguay,2000,75.1,55
+Uzbekistan,2015,69.4,44.7
+Uzbekistan,2014,69.2,43.9
+Uzbekistan,2013,69.1,43
+Uzbekistan,2012,68.8,42.2
+Uzbekistan,2011,68.5,41.4
+Uzbekistan,2010,68.3,4.7
+Uzbekistan,2009,68,4
+Uzbekistan,2008,67.9,39.3
+Uzbekistan,2007,67.8,38.7
+Uzbekistan,2006,67.6,38.1
+Uzbekistan,2005,67.3,37.5
+Uzbekistan,2004,67.8,37
+Uzbekistan,2003,67.2,36.4
+Uzbekistan,2002,67.1,35.9
+Uzbekistan,2001,67.4,35.3
+Uzbekistan,2000,67.1,34.8
+Vanuatu,2015,72,53.3
+Vanuatu,2014,71.7,52.5
+Vanuatu,2013,71.6,51.7
+Vanuatu,2012,71.4,5.8
+Vanuatu,2011,71.2,49.9
+Vanuatu,2010,71,49.1
+Vanuatu,2009,78,48.2
+Vanuatu,2008,75,47.4
+Vanuatu,2007,73,46.6
+Vanuatu,2006,71,45.7
+Vanuatu,2005,69.9,44.9
+Vanuatu,2004,69.6,44.1
+Vanuatu,2003,69.4,43.3
+Vanuatu,2002,69.3,42.6
+Vanuatu,2001,69.1,41.9
+Vanuatu,2000,69,41.1
+Venezuela (Bolivarian Republic of),2015,74.1,62.1
+Venezuela (Bolivarian Republic of),2014,73.9,61.5
+Venezuela (Bolivarian Republic of),2013,73.8,61
+Venezuela (Bolivarian Republic of),2012,73.7,6.4
+Venezuela (Bolivarian Republic of),2011,73.8,59.9
+Venezuela (Bolivarian Republic of),2010,73.7,59.3
+Venezuela (Bolivarian Republic of),2009,73.6,58.8
+Venezuela (Bolivarian Republic of),2008,73.2,58.2
+Venezuela (Bolivarian Republic of),2007,73.4,57.6
+Venezuela (Bolivarian Republic of),2006,73.6,57.1
+Venezuela (Bolivarian Republic of),2005,73.6,56.5
+Venezuela (Bolivarian Republic of),2004,73.3,55.9
+Venezuela (Bolivarian Republic of),2003,72.4,55.3
+Venezuela (Bolivarian Republic of),2002,73.1,54.7
+Venezuela (Bolivarian Republic of),2001,72.5,54.1
+Venezuela (Bolivarian Republic of),2000,72.5,53.4
+Viet Nam,2015,76,17.5
+Viet Nam,2014,75.9,16.7
+Viet Nam,2013,75.7,16
+Viet Nam,2012,75.6,15.3
+Viet Nam,2011,75.4,14.7
+Viet Nam,2010,75.2,14
+Viet Nam,2009,75,13.4
+Viet Nam,2008,74.9,12.9
+Viet Nam,2007,74.7,12.3
+Viet Nam,2006,74.6,11.8
+Viet Nam,2005,74.4,11.3
+Viet Nam,2004,74.2,1.9
+Viet Nam,2003,74,1.4
+Viet Nam,2002,73.8,1
+Viet Nam,2001,73.6,9.6
+Viet Nam,2000,73.4,9.2
+Yemen,2015,65.7,41.3
+Yemen,2014,65.4,4.4
+Yemen,2013,65.4,39.6
+Yemen,2012,64.7,38.7
+Yemen,2011,64.6,37.9
+Yemen,2010,64.4,37.2
+Yemen,2009,64.1,36.4
+Yemen,2008,63.8,35.7
+Yemen,2007,63.4,35.1
+Yemen,2006,63,34.5
+Yemen,2005,62.6,33.9
+Yemen,2004,62.2,33.3
+Yemen,2003,61.9,32.7
+Yemen,2002,61.5,32.2
+Yemen,2001,61.1,31.7
+Yemen,2000,68,31.2
+Zambia,2015,61.8,23.4
+Zambia,2014,61.1,22.8
+Zambia,2013,63,22.3
+Zambia,2012,59.2,21.7
+Zambia,2011,58.2,21.2
+Zambia,2010,58,2.7
+Zambia,2009,57.4,2.2
+Zambia,2008,55.7,19.7
+Zambia,2007,52.6,19.2
+Zambia,2006,58,18.8
+Zambia,2005,49.3,18.4
+Zambia,2004,47.9,18
+Zambia,2003,46.4,17.6
+Zambia,2002,45.5,17.3
+Zambia,2001,44.6,17.1
+Zambia,2000,43.8,16.8
+Zimbabwe,2015,67,31.8
+Zimbabwe,2014,59.2,31.3
+Zimbabwe,2013,58,3.8
+Zimbabwe,2012,56.6,3.3
+Zimbabwe,2011,54.9,29.9
+Zimbabwe,2010,52.4,29.4
+Zimbabwe,2009,50,29
+Zimbabwe,2008,48.2,28.6
+Zimbabwe,2007,46.6,28.2
+Zimbabwe,2006,45.4,27.9
+Zimbabwe,2005,44.6,27.5
+Zimbabwe,2004,44.3,27.1
+Zimbabwe,2003,44.5,26.7
+Zimbabwe,2002,44.8,26.3
+Zimbabwe,2001,45.3,25.9
+Zimbabwe,2000,46,25.5
