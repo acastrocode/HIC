@@ -29,7 +29,7 @@ public class GUIRegresion extends javax.swing.JFrame {
 
     LinearRegression linearRegression;
     // Cargar datasetFromFile
-    String ruta = "src/wekapro/resources/life_expect.arff";
+    String ruta = "life_expect.arff";
     Instances datasetFromFile;
     /**
      * Creates new form GUIRegresion
