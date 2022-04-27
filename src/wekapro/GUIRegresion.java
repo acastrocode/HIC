@@ -338,6 +338,7 @@ public class GUIRegresion extends javax.swing.JFrame {
             SimpleKMeans skm=new SimpleKMeans();
             skm.setNumClusters(choice);
             skm.setPreserveInstancesOrder(true);
+            datasetFromFile = new Instances(new BufferedReader(new FileReader(ruta)));
             skm.buildClusterer(datasetFromFile);
             StringBuilder builder = new StringBuilder();
             builder.append("SKM ").append(skm).append(saltoLinea);
